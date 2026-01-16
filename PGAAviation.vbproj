@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{FB01FAC2-FC42-443B-B78E-6327D641D4E3}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>PGAAviation</RootNamespace>
+    <AssemblyName>PGAAviation</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <Use64BitIISExpress />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>PGAAviation.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>PGAAviation.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Documents\9th Cargo Aircraft Mgmt Forum 2024.jpg" />
+    <Content Include="favicon.ico" />
+    <Content Include="favicon128.png" />
+    <Content Include="img\2024-Cargo-Forum.jpg" />
+    <Content Include="img\737NG.jpg" />
+    <Content Include="img\737NGa.jpg" />
+    <Content Include="img\ACSLogo.jpg" />
+    <Content Include="img\Airbus A319.jpg" />
+    <Content Include="img\aviator-logo.png" />
+    <Content Include="img\Boeing 737 in flight wide.jpg" />
+    <Content Include="img\Boeing 737 in flight.jpg" />
+    <Content Include="img\CFM56-7B.jpg" />
+    <Content Include="img\ChinaSign.jpg" />
+    <Content Include="img\ISTAT-banner-2026.jpg" />
+    <Content Include="img\pressreleasae-banner.jpg" />
+    <Content Include="img\UBS.jpg" />
+    <Content Include="PGA-Perceptions\Default.aspx" />
+    <Content Include="PressRelease01112017.aspx" />
+    <Content Include="PressRelease10232024.aspx" />
+    <Content Include="PressRelease10052018.aspx" />
+    <Content Include="PressRelease08302018.aspx" />
+    <Content Include="PressRelease02262018.aspx" />
+    <Content Include="PressReleases.aspx" />
+    <Content Include="PressRelease02012017.aspx" />
+    <Content Include="about-us.aspx" />
+    <Content Include="bios\ArthurAbel.aspx" />
+    <Content Include="bios\CalvinLuo.aspx" />
+    <Content Include="bios\JessicaChiu.aspx" />
+    <Content Include="bios\NicholasSantangelo.aspx" />
+    <Content Include="contact.aspx" />
+    <Content Include="bios\NelsonCarryl.aspx" />
+    <Content Include="bios\GregBuhler.aspx" />
+    <Content Include="Documents.aspx" />
+    <Content Include="favicon.png" />
+    <Content Include="img\777.jpg" />
+    <Content Include="img\Beijing.jpg" />
+    <Content Include="img\Boeing Logo.jpg" />
+    <Content Include="img\Bombardier Logo.jpg" />
+    <Content Include="img\cn.jpg" />
+    <Content Include="img\CRJSeries.jpg" />
+    <Content Include="img\mba Logo.jpg" />
+    <Content Include="img\MD-11.jpg" />
+    <Content Include="img\portfolio2-banner.jpg" />
+    <Content Include="img\us.jpg" />
+    <Content Include="Modules\TeamMemberBanner.ascx" />
+    <Content Include="services.aspx" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\lightbox.css" />
+    <Content Include="css\main.css" />
+    <Content Include="css\owl.carousel.css" />
+    <Content Include="css\owl.theme.css" />
+    <Content Include="css\responsive.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="faq.aspx" />
+    <Content Include="font-awesome-4.1.0\css\font-awesome.css" />
+    <Content Include="font-awesome-4.1.0\css\font-awesome.min.css" />
+    <Content Include="font-awesome-4.1.0\fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="img\banner-slider1.jpg" />
+    <Content Include="img\banner-slider2.jpg" />
+    <Content Include="img\banner-slider3.jpg" />
+    <Content Include="img\career-banner.jpg" />
+    <Content Include="img\close.png" />
+    <Content Include="img\contact-banner.jpg" />
+    <Content Include="img\faq-banner.jpg" />
+    <Content Include="img\faq-photo.jpg" />
+    <Content Include="img\gallery-banner.jpg" />
+    <Content Include="img\gallery1.jpg" />
+    <Content Include="img\gallery2.jpg" />
+    <Content Include="img\gallery3.jpg" />
+    <Content Include="img\gallery4.jpg" />
+    <Content Include="img\loading.gif" />
+    <Content Include="img\main-banner.jpg" />
+    <Content Include="img\news-banner.jpg" />
+    <Content Include="img\news-image1.jpg" />
+    <Content Include="img\news-image2.jpg" />
+    <Content Include="img\news-image3.jpg" />
+    <Content Include="img\next.png" />
+    <Content Include="img\our-story-banner.jpg" />
+    <Content Include="img\our-team-banner.jpg" />
+    <Content Include="img\PGA Aviation Logo 2.jpg" />
+    <Content Include="img\PGA Aviation Logo.jpg" />
+    <Content Include="img\phone.jpg" />
+    <Content Include="img\photo1.jpg" />
+    <Content Include="img\photo2.jpg" />
+    <Content Include="img\photo3.jpg" />
+    <Content Include="img\photo4.jpg" />
+    <Content Include="img\portfolio-banner.jpg" />
+    <Content Include="img\portfolio-item-banner.jpg" />
+    <Content Include="img\portfolio4.jpg" />
+    <Content Include="img\portfolio5.jpg" />
+    <Content Include="img\prev.png" />
+    <Content Include="img\pricing-banner.jpg" />
+    <Content Include="img\project-item1.jpg" />
+    <Content Include="img\project-item2.jpg" />
+    <Content Include="img\project-item3.jpg" />
+    <Content Include="img\project1.jpg" />
+    <Content Include="img\project2.jpg" />
+    <Content Include="img\project3.jpg" />
+    <Content Include="img\project4.jpg" />
+    <Content Include="img\project5.jpg" />
+    <Content Include="img\projects-banner.jpg" />
+    <Content Include="img\recent-project1.jpg" />
+    <Content Include="img\recent-project2.jpg" />
+    <Content Include="img\recent-project3.jpg" />
+    <Content Include="img\recent-project4.jpg" />
+    <Content Include="img\recent-project5.jpg" />
+    <Content Include="img\recent-project6.jpg" />
+    <Content Include="img\recent-project7.jpg" />
+    <Content Include="img\recent-project8.jpg" />
+    <Content Include="img\services-banner.jpg" />
+    <Content Include="img\testimonials-banner.jpg" />
+    <Content Include="img\testimonials1.jpg" />
+    <Content Include="js\app.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\jquery-1.11.0.js" />
+    <Content Include="js\lightbox.min.js" />
+    <Content Include="js\owl-carousel.js" />
+    <Content Include="js\responsiveslides.min.js" />
+    <Content Include="js\smoothscroll.js" />
+    <Content Include="portfolio.aspx" />
+    <Content Include="team.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PGA-Perceptions\Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PGA-Perceptions\Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PressRelease01112017.aspx.designer.vb">
+      <DependentUpon>PressRelease01112017.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PressRelease01112017.aspx.vb">
+      <DependentUpon>PressRelease01112017.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PressRelease10232024.aspx.vb">
+      <DependentUpon>PressRelease10232024.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PressRelease10052018.aspx.vb">
+      <DependentUpon>PressRelease10052018.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PressRelease08302018.aspx.vb">
+      <DependentUpon>PressRelease08302018.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PressRelease02262018.aspx.vb">
+      <DependentUpon>PressRelease02262018.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PressReleases.aspx.designer.vb">
+      <DependentUpon>PressReleases.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PressReleases.aspx.vb">
+      <DependentUpon>PressReleases.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PressRelease02012017.aspx.designer.vb">
+      <DependentUpon>PressRelease02012017.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PressRelease02012017.aspx.vb">
+      <DependentUpon>PressRelease02012017.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="about-us.aspx.designer.vb">
+      <DependentUpon>about-us.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="about-us.aspx.vb">
+      <DependentUpon>about-us.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="bios\ArthurAbel.aspx.designer.vb">
+      <DependentUpon>ArthurAbel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bios\ArthurAbel.aspx.vb">
+      <DependentUpon>ArthurAbel.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="bios\CalvinLuo.aspx.designer.vb">
+      <DependentUpon>CalvinLuo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bios\CalvinLuo.aspx.vb">
+      <DependentUpon>CalvinLuo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="bios\JessicaChiu.aspx.designer.vb">
+      <DependentUpon>JessicaChiu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bios\JessicaChiu.aspx.vb">
+      <DependentUpon>JessicaChiu.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="bios\NicholasSantangelo.aspx.designer.vb">
+      <DependentUpon>NicholasSantangelo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bios\NicholasSantangelo.aspx.vb">
+      <DependentUpon>NicholasSantangelo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="contact.aspx.designer.vb">
+      <DependentUpon>contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="contact.aspx.vb">
+      <DependentUpon>contact.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="bios\NelsonCarryl.aspx.designer.vb">
+      <DependentUpon>NelsonCarryl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bios\NelsonCarryl.aspx.vb">
+      <DependentUpon>NelsonCarryl.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="bios\GregBuhler.aspx.designer.vb">
+      <DependentUpon>GregBuhler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bios\GregBuhler.aspx.vb">
+      <DependentUpon>GregBuhler.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Documents.aspx.designer.vb">
+      <DependentUpon>Documents.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Documents.aspx.vb">
+      <DependentUpon>Documents.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Modules\modEmail.vb" />
+    <Compile Include="Modules\modFunc.vb" />
+    <Compile Include="Modules\modPageCode.vb" />
+    <Compile Include="Modules\TeamMemberBanner.ascx.designer.vb">
+      <DependentUpon>TeamMemberBanner.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\TeamMemberBanner.ascx.vb">
+      <DependentUpon>TeamMemberBanner.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="services.aspx.designer.vb">
+      <DependentUpon>services.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="services.aspx.vb">
+      <DependentUpon>services.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="faq.aspx.designer.vb">
+      <DependentUpon>faq.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="faq.aspx.vb">
+      <DependentUpon>faq.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PGAMaster.Master.designer.vb">
+      <DependentUpon>PGAMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="PGAMaster.Master.vb">
+      <DependentUpon>PGAMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="portfolio.aspx.designer.vb">
+      <DependentUpon>portfolio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="portfolio.aspx.vb">
+      <DependentUpon>portfolio.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="team.aspx.designer.vb">
+      <DependentUpon>team.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="team.aspx.vb">
+      <DependentUpon>team.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Documents\2016 Q1 Report - PGA Aviation.pdf" />
+    <Content Include="Documents\2016 Q2 Report - PGA Aviation.pdf" />
+    <Content Include="Documents\2016 Q3 Report - PGA Aviation.pdf" />
+    <Content Include="Documents\2016 Q4 Report - PGA Aviation.pdf" />
+    <Content Include="Documents\2017 Q1 Report - PGA Aviation.pdf" />
+    <Content Include="Documents\2017 Q2 Report - PGA Aviation.pdf" />
+    <Content Include="Documents\2017 Q3 Report - PGA Aviation.pdf" />
+    <Content Include="Documents\2017 Q4 Report - PGA Aviation.pdf" />
+    <Content Include="Documents\2018 Q3 Report - PGA Aviation.pdf" />
+    <Content Include="Documents\Press Release Aug 2018.pdf" />
+    <Content Include="Documents\Press Release Sep 2018.pdf" />
+    <Content Include="Documents\2019 February Report - PGA Aviation.pdf" />
+    <Content Include="Documents\PGA Aviation Press Release 10-23-2024.pdf" />
+    <Content Include="Documents\9th Cargo Aircraft Mgmt Forum 2024.pdf" />
+    <None Include="font-awesome-4.1.0\fonts\fontawesome-webfont.eot" />
+    <None Include="font-awesome-4.1.0\fonts\fontawesome-webfont.ttf" />
+    <None Include="font-awesome-4.1.0\fonts\fontawesome-webfont.woff" />
+    <None Include="font-awesome-4.1.0\fonts\fontawesome.otf" />
+    <None Include="fonts\glyphicons-halflings-regular.eot" />
+    <None Include="fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="fonts\glyphicons-halflings-regular.woff" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\PublishProfiles\Profile1.pubxml" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="PGAMaster.Master" />
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49535</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
