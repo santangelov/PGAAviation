@@ -1,10 +1,29 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="PGAMaster.Master" CodeBehind="Default.aspx.vb" Inherits="PGAAviation._Default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <title>pga aviation</title>
-    <meta name="description" content="PGA Aviation, LLC is an aircraft remarketing firm. A creative niche player in the marketplace. Our team has a very strong background in the China Aviation market.">
+    <title>PGA Aviation | Aircraft Remarketing & Advisory</title>
+    <meta name="description" content="PGA Aviation, LLC is an aircraft remarketing firm specializing in asset-based cross-border transactions with deep China aviation market expertise." />
+    <meta name="keywords" content="PGA Aviation, aircraft remarketing, aircraft sales, aviation advisory, China aviation market, asset-based transactions, aircraft leasing" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.pgaaviation.com/" />
+    <meta property="og:site_name" content="PGA Aviation" />
+    <meta property="og:title" content="PGA Aviation | Aircraft Remarketing & Advisory" />
+    <meta property="og:description" content="PGA Aviation, LLC is an aircraft remarketing firm specializing in asset-based cross-border transactions with deep China aviation market expertise." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.pgaaviation.com/" />
+    <meta property="og:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <meta property="og:image:alt" content="PGA Aviation logo" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="PGA Aviation | Aircraft Remarketing & Advisory" />
+    <meta name="twitter:description" content="PGA Aviation, LLC is an aircraft remarketing firm specializing in asset-based cross-border transactions with deep China aviation market expertise." />
+    <meta name="twitter:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="128x128" href="/favicon128.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
+    <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
+    <meta name="application-name" content="PGA Aviation" />
 </asp:Content>
-
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
     <!-- Intro Header -->

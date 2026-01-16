@@ -2,8 +2,28 @@
 <%@ Register src="~/Modules/TeamMemberBanner.ascx" tagname="TeamMemberBanner" tagprefix="uc1" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <title>pga aviation - Team Member Nicholas A. Santangelo</title>
-    <meta name="description" content="" />
+    <title>PGA Aviation | Nicholas A. Santangelo</title>
+    <meta name="description" content="Profile of Nicholas A. Santangelo, Company Technical Adviser at PGA Aviation, with deep maintenance and engineering expertise." />
+    <meta name="keywords" content="Nicholas Santangelo, PGA Aviation technical adviser, aircraft maintenance, engineering" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.pgaaviation.com/bios/NicholasSantangelo.aspx" />
+    <meta property="og:site_name" content="PGA Aviation" />
+    <meta property="og:title" content="PGA Aviation | Nicholas A. Santangelo" />
+    <meta property="og:description" content="Profile of Nicholas A. Santangelo, Company Technical Adviser at PGA Aviation, with deep maintenance and engineering expertise." />
+    <meta property="og:type" content="profile" />
+    <meta property="og:url" content="https://www.pgaaviation.com/bios/NicholasSantangelo.aspx" />
+    <meta property="og:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <meta property="og:image:alt" content="PGA Aviation logo" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="PGA Aviation | Nicholas A. Santangelo" />
+    <meta name="twitter:description" content="Profile of Nicholas A. Santangelo, Company Technical Adviser at PGA Aviation, with deep maintenance and engineering expertise." />
+    <meta name="twitter:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="128x128" href="/favicon128.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
+    <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
+    <meta name="application-name" content="PGA Aviation" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 

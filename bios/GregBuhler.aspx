@@ -2,8 +2,28 @@
 <%@ Register src="~/Modules/TeamMemberBanner.ascx" tagname="TeamMemberBanner" tagprefix="uc1" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <title>pga aviation - Team Member Gregory Buhler</title>
-    <meta name="description" content="" />
+    <title>PGA Aviation | Gregory W. Buhler</title>
+    <meta name="description" content="Profile of Gregory W. Buhler, Outside Legal Counsel at PGA Aviation, specializing in aviation law and aircraft transactions." />
+    <meta name="keywords" content="Gregory W. Buhler, PGA Aviation legal counsel, aviation law, aircraft transactions" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.pgaaviation.com/bios/GregBuhler.aspx" />
+    <meta property="og:site_name" content="PGA Aviation" />
+    <meta property="og:title" content="PGA Aviation | Gregory W. Buhler" />
+    <meta property="og:description" content="Profile of Gregory W. Buhler, Outside Legal Counsel at PGA Aviation, specializing in aviation law and aircraft transactions." />
+    <meta property="og:type" content="profile" />
+    <meta property="og:url" content="https://www.pgaaviation.com/bios/GregBuhler.aspx" />
+    <meta property="og:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <meta property="og:image:alt" content="PGA Aviation logo" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="PGA Aviation | Gregory W. Buhler" />
+    <meta name="twitter:description" content="Profile of Gregory W. Buhler, Outside Legal Counsel at PGA Aviation, specializing in aviation law and aircraft transactions." />
+    <meta name="twitter:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="128x128" href="/favicon128.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
+    <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
+    <meta name="application-name" content="PGA Aviation" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
