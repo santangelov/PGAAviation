@@ -1,7 +1,27 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="PGAMaster.Master" CodeBehind="about-us.aspx.vb" Inherits="PGAAviation.about_us" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <title>pga aviation - About us</title>
-    <meta name="description" content="">
+    <title>PGA Aviation | About Us</title>
+    <meta name="description" content="Learn about PGA Aviation LLC, a New York-based aircraft remarketing firm with global partnerships and deep China aviation market expertise." />
+    <meta name="keywords" content="PGA Aviation, about PGA, aircraft remarketing firm, aviation consulting, China aviation, New York aviation" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.pgaaviation.com/about-us.aspx" />
+    <meta property="og:site_name" content="PGA Aviation" />
+    <meta property="og:title" content="PGA Aviation | About Us" />
+    <meta property="og:description" content="Learn about PGA Aviation LLC, a New York-based aircraft remarketing firm with global partnerships and deep China aviation market expertise." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.pgaaviation.com/about-us.aspx" />
+    <meta property="og:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <meta property="og:image:alt" content="PGA Aviation logo" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="PGA Aviation | About Us" />
+    <meta name="twitter:description" content="Learn about PGA Aviation LLC, a New York-based aircraft remarketing firm with global partnerships and deep China aviation market expertise." />
+    <meta name="twitter:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="128x128" href="/favicon128.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
+    <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
+    <meta name="application-name" content="PGA Aviation" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 

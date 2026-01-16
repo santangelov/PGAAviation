@@ -1,7 +1,27 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="PGAMaster.Master" CodeBehind="PressRelease01112017.aspx.vb" Inherits="PGAAviation.PressRelease01112017" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <title>pga aviation - Press Release - 01/11/2017</title>
-    <meta name="description" content="">
+    <title>PGA Aviation | Press Release - January 11, 2017</title>
+    <meta name="description" content="PGA Aviation advised a major investor on the phase-out of eleven in-production aircraft for a leading China network carrier." />
+    <meta name="keywords" content="press release, aircraft phase-out, China airline, aircraft sales, PGA Aviation" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.pgaaviation.com/PressRelease01112017.aspx" />
+    <meta property="og:site_name" content="PGA Aviation" />
+    <meta property="og:title" content="PGA Aviation | Press Release - January 11, 2017" />
+    <meta property="og:description" content="PGA Aviation advised a major investor on the phase-out of eleven in-production aircraft for a leading China network carrier." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.pgaaviation.com/PressRelease01112017.aspx" />
+    <meta property="og:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <meta property="og:image:alt" content="PGA Aviation logo" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="PGA Aviation | Press Release - January 11, 2017" />
+    <meta name="twitter:description" content="PGA Aviation advised a major investor on the phase-out of eleven in-production aircraft for a leading China network carrier." />
+    <meta name="twitter:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="128x128" href="/favicon128.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
+    <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
+    <meta name="application-name" content="PGA Aviation" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
