@@ -141,7 +141,7 @@
                    <div class="hr"></div>
             </div>
             <div class="col-md-6 col-md-offset-3">
-                <p class="sub-text">PGA stands for Pacific Generation Associates. We cherish the strong professional bond and working relationship among our founding team members. We believe in an approach that seeks to accomplish "Profitable Growth for All" clients and stakeholders involved each deal we work on.</p>
+                <p class="sub-text">PGA stands for <b>Pacific Generation Associates</b>. We value the strong professional bond among our founding team and the relationships we build with clients and stakeholders. Our approach is anchored in <b><i>Profitable Growth for All</i></b>, combining decades of experience in <b>aircraft remarketing, aviation advisory, and asset‑based cross‑border transactions, with deep China aviation market expertise</b> and a New York base of operations.</p>
             </div>
 		</div>
          <!-- /row -->
