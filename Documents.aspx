@@ -1,7 +1,27 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="PGAMaster.Master" CodeBehind="Documents.aspx.vb" Inherits="PGAAviation.Documents" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <title>pga aviation - Quarterly Review: China Aviation Industry Whitepapers</title>
-    <meta name="description" content="On a quarterly basis we analyze the China Aviation Industry and give our impressions and insights on the industry." />
+    <title>PGA Aviation | PGA Perceptions</title>
+    <meta name="description" content="Access PGA Perceptions from the Middle Kingdom—quarterly insights on trends and developments in the Chinese aviation industry." />
+    <meta name="keywords" content="PGA Perceptions, China aviation report, aviation industry whitepaper, quarterly report, PGA Aviation" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.pgaaviation.com/Documents.aspx" />
+    <meta property="og:site_name" content="PGA Aviation" />
+    <meta property="og:title" content="PGA Aviation | PGA Perceptions" />
+    <meta property="og:description" content="Access PGA Perceptions from the Middle Kingdom—quarterly insights on trends and developments in the Chinese aviation industry." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.pgaaviation.com/Documents.aspx" />
+    <meta property="og:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <meta property="og:image:alt" content="PGA Aviation logo" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="PGA Aviation | PGA Perceptions" />
+    <meta name="twitter:description" content="Access PGA Perceptions from the Middle Kingdom—quarterly insights on trends and developments in the Chinese aviation industry." />
+    <meta name="twitter:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="128x128" href="/favicon128.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
+    <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
+    <meta name="application-name" content="PGA Aviation" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 

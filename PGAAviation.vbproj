@@ -153,6 +153,7 @@
     <Content Include="css\responsive.css" />
     <Content Include="Default.aspx" />
     <Content Include="faq.aspx" />
+    <Content Include="faq-transactional.aspx" />
     <Content Include="font-awesome-4.1.0\css\font-awesome.css" />
     <Content Include="font-awesome-4.1.0\css\font-awesome.min.css" />
     <Content Include="font-awesome-4.1.0\fonts\fontawesome-webfont.svg" />
@@ -366,6 +367,13 @@
     </Compile>
     <Compile Include="faq.aspx.vb">
       <DependentUpon>faq.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="faq-transactional.aspx.designer.vb">
+      <DependentUpon>faq-transactional.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="faq-transactional.aspx.vb">
+      <DependentUpon>faq-transactional.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
