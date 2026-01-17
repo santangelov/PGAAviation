@@ -73,6 +73,9 @@
                      <li>
                         <a href="services.aspx">Services</a>
                      </li>
+                     <li>
+                        <a href="faq-transactional.aspx">FAQ</a>
+                     </li>
                       <li>
                         <a href="/Documents.aspx">PGA Perceptions</a>
                      </li> 
@@ -130,6 +133,7 @@
 						            <div class="footerLinkList">
                                         <p><a href="team.aspx">Team</a></p>
                                         <p><a href="services.aspx">Services</a></p>
+                                        <p><a href="faq-transactional.aspx">FAQ</a></p>
                                         <p><a href="portfolio.aspx">Recent Transactions</a></p>
 						            </div><!-- /footerLinkList -->
 					      </div>
