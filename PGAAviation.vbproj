@@ -152,7 +152,6 @@
     <Content Include="css\owl.theme.css" />
     <Content Include="css\responsive.css" />
     <Content Include="Default.aspx" />
-    <Content Include="faq.aspx" />
     <Content Include="faq-transactional.aspx" />
     <Content Include="font-awesome-4.1.0\css\font-awesome.css" />
     <Content Include="font-awesome-4.1.0\css\font-awesome.min.css" />
@@ -360,13 +359,6 @@
     </Compile>
     <Compile Include="Default.aspx.vb">
       <DependentUpon>Default.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
-    </Compile>
-    <Compile Include="faq.aspx.designer.vb">
-      <DependentUpon>faq.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="faq.aspx.vb">
-      <DependentUpon>faq.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="faq-transactional.aspx.designer.vb">

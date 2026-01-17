@@ -229,7 +229,7 @@
                         </div>
                         <div id="faqTwelveContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqTwelve">
                             <div class="panel-body">
-                                Reach out through our contact page to discuss your goals, timeline, and asset profile. We&apos;ll propose a tailored engagement model for remarketing, advisory, or asset management support.
+                                Reach out through our <a href="contact.aspx">contact page</a> to discuss your goals, timeline, and asset profile. We&apos;ll propose a tailored engagement model for remarketing, advisory, or asset management support.
                             </div>
                         </div>
                     </div>
