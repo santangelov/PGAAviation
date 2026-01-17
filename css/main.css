@@ -1016,6 +1016,33 @@ a.btn-right:hover {
 	line-height: 1.7;
 }
 
+.faq-intro {
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+.faq-intro h3 {
+	font-size: 26px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	color: #393b3d;
+	letter-spacing: 0.05em;
+	margin-bottom: 10px;
+}
+
+.faq-content .panel {
+	border-radius: 0;
+	box-shadow: none;
+}
+
+.faq-content .panel-heading {
+	border-radius: 0;
+}
+
+.faq-cta {
+	margin-top: 30px;
+}
+
 
 /* ----------------------------------------------------
 	 SERVICES STYLES
