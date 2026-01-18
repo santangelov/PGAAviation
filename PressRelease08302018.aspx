@@ -22,6 +22,42 @@
     <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
     <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
     <meta name="application-name" content="PGA Aviation" />
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://www.pgaaviation.com/#organization",
+              "name": "PGA Aviation",
+              "url": "https://www.pgaaviation.com/",
+              "logo": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg",
+              "image": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg"
+            },
+            {
+              "@type": "NewsArticle",
+              "headline": "PGA Aviation announced sponsorship of the Aircraft Remarketing and Trading Management Forum in Guangzhou",
+              "description": "PGA Aviation announced sponsorship of the Aircraft Remarketing & Trading Management Forum in Guangzhou.",
+              "datePublished": "2018-08-30",
+              "dateModified": "2018-08-30",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.pgaaviation.com/PressRelease08302018.aspx"
+              },
+              "image": [
+                "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg"
+              ],
+              "author": {
+                "@type": "Organization",
+                "name": "PGA Aviation"
+              },
+              "publisher": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              }
+            }
+          ]
+        }
+    </script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
@@ -66,7 +102,7 @@
                <!-- Button -->
                <div class="text-center">
                    <a href="PressReleases.aspx" class="btn red-btn">More Press Releases</a>&nbsp;
-                   <a href="contact.html" class="btn red-btn">Contact us <i class="fa fa-long-arrow-right"></i></a>
+                   <a href="contact.aspx" class="btn red-btn">Contact us <i class="fa fa-long-arrow-right"></i></a>
                </div>
                <div class="margin-bottom"></div>
         

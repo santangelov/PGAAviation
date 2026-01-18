@@ -21,8 +21,14 @@
 
     <!-- Custom Fonts -->
     <link href="/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css' />
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css' />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css?family=Oswald:400,300,700&display=swap" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js" /></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js" /></script>
+    <![endif]-->
 
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
@@ -40,7 +46,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/"><img style="width:1.8em" src="/img/PGA Aviation Logo 2.jpg" border="0" alt="PGA Aviation" /> pga aviation</a>
+                <a class="navbar-brand" href="/"><img style="width:1.8em" src="/img/PGA Aviation Logo 2.jpg" border="0" alt="PGA Aviation logo" /> pga aviation</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -79,8 +85,8 @@
                         <a href="/contact.aspx">Contact</a>
                      </li>
                      <li class="flags">
-                        <asp:HyperLink NavigateUrl="#" ID="lnkUS" runat="server"><img src="/img/us.jpg" alt="English"/></asp:HyperLink>
-                        <asp:HyperLink visible="false" NavigateUrl="/cn/" ID="lnkCN" runat="server"><img src="/img/cn.jpg" alt="Chinese"/></asp:HyperLink>
+                        <asp:HyperLink NavigateUrl="#" ID="lnkUS" runat="server"><img src="/img/us.jpg" alt="English language"/></asp:HyperLink>
+                        <asp:HyperLink visible="false" NavigateUrl="/cn/" ID="lnkCN" runat="server"><img src="/img/cn.jpg" alt="Chinese language"/></asp:HyperLink>
                      </li>
 
                   </ul>

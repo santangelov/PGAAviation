@@ -46,7 +46,7 @@
             <!-- FAQ -->
             <div class="col-md-4 col-sm-4">
                 <div class="thumbnail-faq">
-                    <img src="img/faq-photo.jpg" alt="photo"/>
+                    <img src="img/faq-photo.jpg" alt="Aircraft maintenance hangar"/>
                         <div class="caption-faq">
                             <h2>Business hours
                                 <span>Monday - Friday: 9:00 AM to 5:00 PM</span>
