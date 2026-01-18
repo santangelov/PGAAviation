@@ -41,7 +41,7 @@
     
     <!-- Page Content -->
     <div class="container">
-    	<h1>PGA Aviatoin Press Releases</h1>
+    	<h1>PGA Aviation Press Releases</h1>
 
         <!-- Listing Start -->
         <div class="row margin-top">
