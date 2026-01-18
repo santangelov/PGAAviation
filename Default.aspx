@@ -75,7 +75,7 @@
             <!-- Box1 -->
             <div class="col-md-6 col-sm-6">
                 <div class="panel-default">
-                     <img src="img/photo1.jpg" alt="photo"/>
+                     <img src="img/photo1.jpg" alt="Commercial aircraft in flight"/>
                          <div class="panel-heading">
                              <h2>About us</h2>
                          </div>
@@ -93,7 +93,7 @@
             <!-- Box2 -->
             <div class="col-md-6 col-sm-6">
                 <div class="panel-default">
-                    <img src="img/photo2.jpg" alt="photo"/>
+                    <img src="img/photo2.jpg" alt="Aircraft fleet on the runway"/>
                         <div class="panel-heading">
                             <h2> Services</h2>
                         </div>
