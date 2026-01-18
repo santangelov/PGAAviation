@@ -22,6 +22,101 @@
     <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
     <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
     <meta name="application-name" content="PGA Aviation" />
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://www.pgaaviation.com/#organization",
+              "name": "PGA Aviation",
+              "url": "https://www.pgaaviation.com/",
+              "logo": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg",
+              "image": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg"
+            },
+            {
+              "@type": "Service",
+              "serviceType": "Commercial Aircraft Re-Marketing",
+              "provider": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              },
+              "areaServed": "Global"
+            },
+            {
+              "@type": "Service",
+              "serviceType": "Mid-life and End-of-life Commercial Aircraft Disposal and Phaseout Solutions",
+              "provider": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              },
+              "areaServed": "Global"
+            },
+            {
+              "@type": "Service",
+              "serviceType": "Business Jet Long-Term Charter Arrangements and Resale Solutions",
+              "provider": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              },
+              "areaServed": "Global"
+            },
+            {
+              "@type": "Service",
+              "serviceType": "P2F Conversions Cost Management",
+              "provider": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              },
+              "areaServed": "Global"
+            },
+            {
+              "@type": "Service",
+              "serviceType": "Aircraft Procurement Consulting Services",
+              "provider": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              },
+              "areaServed": "Global"
+            },
+            {
+              "@type": "Service",
+              "serviceType": "China General Aviation Initiatives",
+              "provider": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              },
+              "areaServed": "China"
+            },
+            {
+              "@type": "Service",
+              "serviceType": "Cross-Border Aviation Joint-Venture Initiatives",
+              "provider": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              },
+              "areaServed": "Global"
+            },
+            {
+              "@type": "Service",
+              "serviceType": "Aircraft Sales and Leaseback Arrangements",
+              "provider": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              },
+              "areaServed": "Global"
+            },
+            {
+              "@type": "Service",
+              "serviceType": "Engines Sales and Leaseback Arrangements",
+              "provider": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              },
+              "areaServed": "Global"
+            },
+            {
+              "@type": "Service",
+              "serviceType": "PRC Aviation Policy Advisory Services",
+              "provider": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              },
+              "areaServed": "China"
+            }
+          ]
+        }
+    </script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
@@ -40,6 +135,22 @@
     <!-- /services banner -->
 
     
+    <section class="why-pga">
+        <div class="container">
+            <div class="row margin-top">
+                <div class="col-md-12">
+                    <h2>Why PGA Aviation</h2>
+                    <p>PGA Aviation is a focused aviation transaction and advisory firm with deep experience in mid-life and end-of-life aircraft, cross-border execution, and the China market. We combine OEM, leasing, airline, and aviation legal backgrounds to deliver disciplined outcomes beyond brokerage.</p>
+                    <ul>
+                        <li><strong>China execution depth:</strong> On-the-ground experience with PRC processes, equity exchanges, and state-owned counterparties.</li>
+                        <li><strong>Lifecycle expertise:</strong> Remarketing, lease transitions, phase-out planning, and part-out strategies.</li>
+                        <li><strong>Risk-managed delivery:</strong> Legal and finance experience that reduces regulatory, compliance, and execution risk.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Page Content -->
     <div class="container">
 
@@ -172,6 +283,23 @@
         
         <div class="services4-bottom"></div>
 
+        <section class="process">
+            <div class="row margin-top">
+                <div class="col-md-12">
+                    <h2>How We Work</h2>
+                    <ol>
+                        <li><strong>Discovery:</strong> Align on asset profile, objectives, constraints, and timeline.</li>
+                        <li><strong>Market strategy:</strong> Define valuation, counterparty targeting, and transaction structure.</li>
+                        <li><strong>Execution:</strong> Coordinate diligence, documentation, regulatory steps, and closing.</li>
+                        <li><strong>Post-close support:</strong> Guide transitions, technical follow-through, and reporting.</li>
+                    </ol>
+                </div>
+            </div>
+            <div class="text-center margin-top">
+                <p><strong>Ready to discuss a transaction or advisory need?</strong></p>
+                <a href="contact.aspx" class="btn red-btn">Contact PGA Aviation</a>
+            </div>
+        </section>
 
     </div>
     <!-- /container -->

@@ -23,6 +23,122 @@
     <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
     <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
     <meta name="application-name" content="PGA Aviation" />
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://www.pgaaviation.com/#organization",
+              "name": "PGA Aviation",
+              "url": "https://www.pgaaviation.com/",
+              "logo": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg",
+              "image": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg"
+            },
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "How does PGA ensure successful project execution and closure in the Greater China market?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "PGA maintains a direct operational network within Greater China, including experience with official equity exchanges and state-owned bidding processes. This on-the-ground execution capability helps us navigate regulations, timelines, and counterparties to close transactions efficiently."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "What is the scope of PGA's aircraft transaction experience?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Our team has successfully executed transactions involving both in-production and sunset commercial aircraft and engines, including procurement, acquisition, lease transitions, and phaseout management for airlines, lessors, and investors worldwide."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "How does PGA mitigate financial and regulatory exposure for clients?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We structure deals with proactive risk assessment grounded in aviation legal, finance, and regulatory experience, including Wall Street legal backgrounds and deep China market familiarity. This helps protect capital, manage compliance, and reduce execution risk."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Does PGA exclusively manage large portfolio mandates?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No. While we support large fleet projects, we are equally structured to manage strategic single-asset acquisitions or divestments, including aircraft and engines slated for part-out or repositioning."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Does PGA serve only buy-side clients in the acquisition process?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We act as a dedicated asset manager or advisor for equity buyers and also directly contract with sellers. Our expertise is deployed across both buy-side and sell-side mandates in the same specialized market sector."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "What services does PGA provide beyond remarketing?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "PGA provides advisory, consulting, appraisal coordination, technical services, and asset management. We partner with a first-tier global appraisal firm to support valuation, technical diligence, and lifecycle planning."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "What types of aircraft and engines does PGA focus on?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Our focus is on mid-life and end-of-life commercial aircraft and engines, including transactions involving in-production aircraft and sunset assets, where market complexity and timing are critical."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "How does PGA support valuation and technical diligence?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We coordinate appraisal and technical service work through our global appraisal partner, providing market-backed valuations, inspection guidance, and lifecycle strategies tailored to each asset and jurisdiction."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "What types of counterparties does PGA work with?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "PGA works with airlines, leasing companies, aircraft investors, private equity firms, part-out companies, and OEM-aligned stakeholders across global aviation markets."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Where is PGA Aviation based and when was it founded?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "PGA Aviation LLC is based in New York City and was incorporated in 2010. Our team brings decades of OEM, airline, leasing, and legal experience to each engagement."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "What makes PGA Aviation different from typical brokers?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Our approach blends OEM transaction expertise, aviation legal depth, and cross-border execution capabilities with long-standing China market experience. We operate as advisors and asset managers, not just intermediaries."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "How do I start a conversation with PGA Aviation?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Reach out through our contact page to discuss your goals, timeline, and asset profile. We will propose a tailored engagement model for remarketing, advisory, or asset management support."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+    </script>
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
