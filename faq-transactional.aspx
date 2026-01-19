@@ -43,7 +43,7 @@
                   "name": "How does PGA ensure successful project execution and closure in the Greater China market?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "PGA maintains a direct operational network within Greater China, including experience with official equity exchanges and state-owned bidding processes. This on-the-ground execution capability helps us navigate regulations, timelines, and counterparties to close transactions efficiently."
+                    "text": "PGA is focused on the Greater China market and works closely with airlines and leasing companies in the region. In China-linked transactions, timing and process can be driven by government-directed procedures, including prescribed steps for disposing of state-owned assets through government-authorized trading and bidding platforms. A practical approach is to map the closing path early—deliverables, responsibilities, and approval sequencing—so the schedule reflects how the system operates. That helps reduce late-stage surprises and protects value when deadlines are tight. For additional context, see PGA Perceptions on our Documents page."
                   }
                 },
                 {
@@ -51,7 +51,7 @@
                   "name": "What is the scope of PGA's aircraft transaction experience?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Our team has successfully executed transactions involving both in-production and sunset commercial aircraft and engines, including procurement, acquisition, lease transitions, and phaseout management for airlines, lessors, and investors worldwide."
+                    "text": "PGA is an aircraft re-marketing firm focused on aircraft asset-based cross-border transactions. We work with airlines, leasing companies, aircraft investors, private equity firms, parts-out companies, and other market participants. The scope of work varies by mandate, but it typically depends on clear records, realistic timing, and counterparties that can actually close. Our site includes examples of procurement-related projects and used aircraft transactions, including sale and lease novations. If you want a quick picture of the types of mandates we support, review our Services and Recent Transactions pages."
                   }
                 },
                 {
@@ -59,7 +59,7 @@
                   "name": "How does PGA mitigate financial and regulatory exposure for clients?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "We structure deals with proactive risk assessment grounded in aviation legal, finance, and regulatory experience, including Wall Street legal backgrounds and deep China market familiarity. This helps protect capital, manage compliance, and reduce execution risk."
+                    "text": "Cross-border aircraft deals carry predictable risk categories: title and ownership chain, records quality, export and import requirements, counterparty performance risk, and schedule risk. PGA's team background includes experience with OEMs, airlines, leasing companies, and large New York law firms, which helps when documentation and contracting details matter. The goal is to identify issues early and align diligence, documentation, and closing steps to the way the transaction must actually run. In China-linked deals, government approval timing can be a gating item, so a realistic timeline is part of risk management. For more detail on our focus and strategy, see About Us and Services."
                   }
                 },
                 {
@@ -67,7 +67,7 @@
                   "name": "Does PGA exclusively manage large portfolio mandates?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "No. While we support large fleet projects, we are equally structured to manage strategic single-asset acquisitions or divestments, including aircraft and engines slated for part-out or repositioning."
+                    "text": "No. PGA supports both multi-aircraft programs and single-asset mandates. Single-asset deals can be especially timing-sensitive, so clarity around records, technical status, and a credible buyer pool matters. Depending on the assignment, support can include market outreach, counterparty qualification, and closing coordination. The objective is straightforward: protect value and reduce avoidable slippage. If you have one asset with a clear objective and timeline, we can scope support accordingly."
                   }
                 },
                 {
@@ -75,7 +75,7 @@
                   "name": "Does PGA serve only buy-side clients in the acquisition process?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "We act as a dedicated asset manager or advisor for equity buyers and also directly contract with sellers. Our expertise is deployed across both buy-side and sell-side mandates in the same specialized market sector."
+                    "text": "No. PGA can support both buy-side and sell-side mandates. On the buy side, the focus is typically on asset selection, diligence readiness, and a clean path to delivery. On the sell side, the focus is positioning, qualified outreach, and managing execution through closing. In either case, the work is driven by the asset, the timeline, and the counterparties involved. See our Services page for the range of support."
                   }
                 },
                 {
@@ -83,7 +83,7 @@
                   "name": "What services does PGA provide beyond remarketing?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "PGA provides advisory, consulting, appraisal coordination, technical services, and asset management. We partner with a first-tier global appraisal firm to support valuation, technical diligence, and lifecycle planning."
+                    "text": "Beyond remarketing, PGA's Services include appraisal, consulting, technical services, and asset management. In the appraisal and related areas, PGA works with its partner company, Morten Beyer & Agnew, in the Greater China market. That can help connect valuation, technical reality, and market context when making timing or disposition decisions. For China-linked policy context, our PGA Perceptions reports can be a useful starting point. See Services for details."
                   }
                 },
                 {
@@ -91,7 +91,7 @@
                   "name": "What types of aircraft and engines does PGA focus on?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Our focus is on mid-life and end-of-life commercial aircraft and engines, including transactions involving in-production aircraft and sunset assets, where market complexity and timing are critical."
+                    "text": "Our focus is aircraft asset-based transactions, often involving mid-life and end-of-life commercial aircraft and engines where timing and execution drive outcomes. The Greater China focus means we pay close attention to approval mechanics and process realities that can affect importation, phaseout, and remarketing. Depending on the mandate, an exit path might be continued operation, lease novation, sale, or part-out. The right path depends on the asset's condition, records, and the buyer universe. The goal is to match the asset to the most realistic liquidity path."
                   }
                 },
                 {
@@ -99,7 +99,7 @@
                   "name": "How does PGA support valuation and technical diligence?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "We coordinate appraisal and technical service work through our global appraisal partner, providing market-backed valuations, inspection guidance, and lifecycle strategies tailored to each asset and jurisdiction."
+                    "text": "Valuation and diligence are typically built from a mix of records review, technical input, and market context. PGA's Services include appraisal and technical support, and in these areas PGA works with its partner company, Morten Beyer & Agnew, in the Greater China market. The goal is to ensure decisions are based on decision-grade inputs rather than generic assumptions. Strong records and a clear technical story usually translate into better liquidity and pricing. We can help align the technical facts with the commercial path to close."
                   }
                 },
                 {
@@ -107,7 +107,7 @@
                   "name": "What types of counterparties does PGA work with?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "PGA works with airlines, leasing companies, aircraft investors, private equity firms, part-out companies, and OEM-aligned stakeholders across global aviation markets."
+                    "text": "PGA works with OEMs, airlines, leasing companies, aircraft investors, private equity firms, parts-out companies, and related stakeholders. That mix matters because different counterparties price risk differently—operators focus on fleet fit, lessors focus on lease and residual, and teardown buyers focus on material value. Understanding who the natural buyer is helps shorten cycle time and improves closing probability. It also keeps marketing efforts focused on counterparties that can actually execute. For examples of the types of counterparties and deals, see our Recent Transactions page."
                   }
                 },
                 {
@@ -115,7 +115,7 @@
                   "name": "Where is PGA Aviation based and when was it founded?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "PGA Aviation LLC is based in New York City and was incorporated in 2010. Our team brings decades of OEM, airline, leasing, and legal experience to each engagement."
+                    "text": "PGA Aviation LLC was incorporated in New York in 2010, and the company's published contact address is in New York, NY. Our team members have accumulated many years of experience with OEMs, airlines, leasing companies, and Wall Street law firms. The firm's strategy and focus are described on our About Us page, including the emphasis on China-related remarketing and cross-border execution. If you want to discuss an asset or mandate, the fastest start is to share the basics and the timeline. You can reach us through the Contact page."
                   }
                 },
                 {
@@ -123,7 +123,7 @@
                   "name": "What makes PGA Aviation different from typical brokers?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Our approach blends OEM transaction expertise, aviation legal depth, and cross-border execution capabilities with long-standing China market experience. We operate as advisors and asset managers, not just intermediaries."
+                    "text": "PGA's focus is aircraft asset-based cross-border transactions, with a China-related remarketing strategy described on our About Us page. The team's background spans OEM, leasing, airline, and legal experience, and PGA maintains working relationships with OEMs, airlines, investors, parts-out companies, and a first-tier global appraisal firm. Practically, that means the work is aimed at executable outcomes and disciplined process, not just introductions. We spend time up front on records, timing, and counterparty fit because those are the usual failure points in this segment. If you want the full scope, see Services and Recent Transactions."
                   }
                 },
                 {
@@ -131,7 +131,7 @@
                   "name": "How do I start a conversation with PGA Aviation?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Reach out through our contact page to discuss your goals, timeline, and asset profile. We will propose a tailored engagement model for remarketing, advisory, or asset management support."
+                    "text": "Reach out through our contact page to discuss your goals, timeline, and asset profile. We'll propose a tailored engagement model for remarketing, advisory, or asset management support. If you have aircraft or engines in transition, share the basics (type/serial, current status, location, and any deadlines). We can quickly confirm whether the opportunity is a fit and what an executable path to close looks like. For background on what we do, you can also review our Services page."contact.aspx\\">contact page</a> to discuss your goals, timeline, and asset profile. We'll propose a tailored engagement model for remarketing, advisory, or asset management support. If you have aircraft or engines in transition, share the basics (type/serial, current status, location, and any deadlines). We can quickly confirm whether the opportunity is a fit and what an executable path to close looks like. For background on what we do, you can also review our <a href=\\"services.aspx\\">Services</a> page."
                   }
                 }
               ]
@@ -162,7 +162,7 @@
             <div class="col-md-10 col-md-offset-1">
                 <div class="faq-intro">
                     <h3>PGA Aviation: Transactional FAQs</h3>
-                    <p>We deploy decades of OEM, Wall Street, and commercial aviation experience to simplify complex aircraft transactions, with a focus on mid-life and end-of-life assets and cross-border execution.</p>
+                    <p>We bring many years of OEM, airline, leasing, and legal experience to support aircraft asset-based cross-border transactions, with particular depth in Greater China.</p>
                 </div>
             </div>
         </div>
@@ -179,9 +179,7 @@
                             </h4>
                         </div>
                         <div id="faqOneContent" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="faqOne">
-                            <div class="panel-body">
-                                PGA maintains a direct operational network within Greater China, including experience with official equity exchanges and state-owned bidding processes. This on-the-ground execution capability helps us navigate regulations, timelines, and counterparties to close transactions efficiently.
-                            </div>
+                            <div class="panel-body">PGA is focused on the Greater China market and works closely with airlines and leasing companies in the region. In China-linked transactions, timing and process can be driven by government-directed procedures, including prescribed steps for disposing of state-owned assets through government-authorized trading and bidding platforms. A practical approach is to map the closing path early—deliverables, responsibilities, and approval sequencing—so the schedule reflects how the system operates. That helps reduce late-stage surprises and protects value when deadlines are tight. For additional context, see PGA Perceptions on our Documents page.</div>
                         </div>
                     </div>
 
@@ -194,9 +192,7 @@
                             </h4>
                         </div>
                         <div id="faqTwoContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqTwo">
-                            <div class="panel-body">
-                                Our team has successfully executed transactions involving both in-production and sunset commercial aircraft and engines, including procurement, acquisition, lease transitions, and phaseout management for airlines, lessors, and investors worldwide.
-                            </div>
+                            <div class="panel-body">PGA is an aircraft re-marketing firm focused on aircraft asset-based cross-border transactions. We work with airlines, leasing companies, aircraft investors, private equity firms, parts-out companies, and other market participants. The scope of work varies by mandate, but it typically depends on clear records, realistic timing, and counterparties that can actually close. Our site includes examples of procurement-related projects and used aircraft transactions, including sale and lease novations. If you want a quick picture of the types of mandates we support, review our Services and Recent Transactions pages.</div>
                         </div>
                     </div>
 
@@ -209,9 +205,7 @@
                             </h4>
                         </div>
                         <div id="faqThreeContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqThree">
-                            <div class="panel-body">
-                                We structure deals with proactive risk assessment grounded in aviation legal, finance, and regulatory experience, including Wall Street legal backgrounds and deep China market familiarity. This helps protect capital, manage compliance, and reduce execution risk.
-                            </div>
+                            <div class="panel-body">Cross-border aircraft deals carry predictable risk categories: title and ownership chain, records quality, export and import requirements, counterparty performance risk, and schedule risk. PGA's team background includes experience with OEMs, airlines, leasing companies, and large New York law firms, which helps when documentation and contracting details matter. The goal is to identify issues early and align diligence, documentation, and closing steps to the way the transaction must actually run. In China-linked deals, government approval timing can be a gating item, so a realistic timeline is part of risk management. For more detail on our focus and strategy, see About Us and Services.</div>
                         </div>
                     </div>
 
@@ -224,9 +218,7 @@
                             </h4>
                         </div>
                         <div id="faqFourContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqFour">
-                            <div class="panel-body">
-                                No. While we support large fleet projects, we are equally structured to manage strategic single-asset acquisitions or divestments, including aircraft and engines slated for part-out or repositioning.
-                            </div>
+                            <div class="panel-body">No. PGA supports both multi-aircraft programs and single-asset mandates. Single-asset deals can be especially timing-sensitive, so clarity around records, technical status, and a credible buyer pool matters. Depending on the assignment, support can include market outreach, counterparty qualification, and closing coordination. The objective is straightforward: protect value and reduce avoidable slippage. If you have one asset with a clear objective and timeline, we can scope support accordingly.</div>
                         </div>
                     </div>
 
@@ -239,9 +231,7 @@
                             </h4>
                         </div>
                         <div id="faqFiveContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqFive">
-                            <div class="panel-body">
-                                We act as a dedicated asset manager or advisor for equity buyers and also directly contract with sellers. Our expertise is deployed across both buy-side and sell-side mandates in the same specialized market sector.
-                            </div>
+                            <div class="panel-body">No. PGA can support both buy-side and sell-side mandates. On the buy side, the focus is typically on asset selection, diligence readiness, and a clean path to delivery. On the sell side, the focus is positioning, qualified outreach, and managing execution through closing. In either case, the work is driven by the asset, the timeline, and the counterparties involved. See our Services page for the range of support.</div>
                         </div>
                     </div>
 
@@ -254,9 +244,7 @@
                             </h4>
                         </div>
                         <div id="faqSixContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqSix">
-                            <div class="panel-body">
-                                PGA provides advisory, consulting, appraisal coordination, technical services, and asset management. We partner with a first-tier global appraisal firm to support valuation, technical diligence, and lifecycle planning.
-                            </div>
+                            <div class="panel-body">Beyond remarketing, PGA's Services include appraisal, consulting, technical services, and asset management. In the appraisal and related areas, PGA works with its partner company, Morten Beyer & Agnew, in the Greater China market. That can help connect valuation, technical reality, and market context when making timing or disposition decisions. For China-linked policy context, our PGA Perceptions reports can be a useful starting point. See Services for details.</div>
                         </div>
                     </div>
 
@@ -269,9 +257,7 @@
                             </h4>
                         </div>
                         <div id="faqSevenContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqSeven">
-                            <div class="panel-body">
-                                Our focus is on mid-life and end-of-life commercial aircraft and engines, including transactions involving in-production aircraft and sunset assets, where market complexity and timing are critical.
-                            </div>
+                            <div class="panel-body">Our focus is aircraft asset-based transactions, often involving mid-life and end-of-life commercial aircraft and engines where timing and execution drive outcomes. The Greater China focus means we pay close attention to approval mechanics and process realities that can affect importation, phaseout, and remarketing. Depending on the mandate, an exit path might be continued operation, lease novation, sale, or part-out. The right path depends on the asset's condition, records, and the buyer universe. The goal is to match the asset to the most realistic liquidity path.</div>
                         </div>
                     </div>
 
@@ -284,9 +270,7 @@
                             </h4>
                         </div>
                         <div id="faqEightContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqEight">
-                            <div class="panel-body">
-                                We coordinate appraisal and technical service work through our global appraisal partner, providing market-backed valuations, inspection guidance, and lifecycle strategies tailored to each asset and jurisdiction.
-                            </div>
+                            <div class="panel-body">Valuation and diligence are typically built from a mix of records review, technical input, and market context. PGA's Services include appraisal and technical support, and in these areas PGA works with its partner company, Morten Beyer & Agnew, in the Greater China market. The goal is to ensure decisions are based on decision-grade inputs rather than generic assumptions. Strong records and a clear technical story usually translate into better liquidity and pricing. We can help align the technical facts with the commercial path to close.</div>
                         </div>
                     </div>
 
@@ -299,9 +283,7 @@
                             </h4>
                         </div>
                         <div id="faqNineContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqNine">
-                            <div class="panel-body">
-                                PGA works with airlines, leasing companies, aircraft investors, private equity firms, part-out companies, and OEM-aligned stakeholders across global aviation markets.
-                            </div>
+                            <div class="panel-body">PGA works with OEMs, airlines, leasing companies, aircraft investors, private equity firms, parts-out companies, and related stakeholders. That mix matters because different counterparties price risk differently—operators focus on fleet fit, lessors focus on lease and residual, and teardown buyers focus on material value. Understanding who the natural buyer is helps shorten cycle time and improves closing probability. It also keeps marketing efforts focused on counterparties that can actually execute. For examples of the types of counterparties and deals, see our Recent Transactions page.</div>
                         </div>
                     </div>
 
@@ -314,9 +296,7 @@
                             </h4>
                         </div>
                         <div id="faqTenContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqTen">
-                            <div class="panel-body">
-                                PGA Aviation LLC is based in New York City and was incorporated in 2010. Our team brings decades of OEM, airline, leasing, and legal experience to each engagement.
-                            </div>
+                            <div class="panel-body">PGA Aviation LLC was incorporated in New York in 2010, and the company's published contact address is in New York, NY. Our team members have accumulated many years of experience with OEMs, airlines, leasing companies, and Wall Street law firms. The firm's strategy and focus are described on our About Us page, including the emphasis on China-related remarketing and cross-border execution. If you want to discuss an asset or mandate, the fastest start is to share the basics and the timeline. You can reach us through the Contact page.</div>
                         </div>
                     </div>
 
@@ -329,9 +309,7 @@
                             </h4>
                         </div>
                         <div id="faqElevenContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqEleven">
-                            <div class="panel-body">
-                                Our approach blends OEM transaction expertise, aviation legal depth, and cross-border execution capabilities with long-standing China market experience. We operate as advisors and asset managers, not just intermediaries.
-                            </div>
+                            <div class="panel-body">PGA's focus is aircraft asset-based cross-border transactions, with a China-related remarketing strategy described on our About Us page. The team's background spans OEM, leasing, airline, and legal experience, and PGA maintains working relationships with OEMs, airlines, investors, parts-out companies, and a first-tier global appraisal firm. Practically, that means the work is aimed at executable outcomes and disciplined process, not just introductions. We spend time up front on records, timing, and counterparty fit because those are the usual failure points in this segment. If you want the full scope, see Services and Recent Transactions.</div>
                         </div>
                     </div>
 
@@ -344,9 +322,7 @@
                             </h4>
                         </div>
                         <div id="faqTwelveContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqTwelve">
-                            <div class="panel-body">
-                                Reach out through our <a href="contact.aspx">contact page</a> to discuss your goals, timeline, and asset profile. We&apos;ll propose a tailored engagement model for remarketing, advisory, or asset management support.
-                            </div>
+                            <div class="panel-body">Reach out through our <a href="contact.aspx">contact page</a> to discuss your goals, timeline, and asset profile. We&apos;ll propose a tailored engagement model for remarketing, advisory, or asset management support. If you have aircraft or engines in transition, share the basics (type/serial, current status, location, and any deadlines). We can quickly confirm whether the opportunity is a fit and what an executable path to close looks like. For background on what we do, you can also review our <a href="services.aspx">Services</a> page.</div>
                         </div>
                     </div>
                 </div>

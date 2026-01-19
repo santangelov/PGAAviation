@@ -42,18 +42,22 @@
     </header>
     <!-- /intro header -->
 
-    <div class="container">
-        <h1>Proud Sponsor</h1>
-    </div>
+    <!-- Sponsor Band -->
+    <div class="sponsor-band">
+        <div class="container">
+            <h2 class="sponsor-title">Proud Sponsor</h2>
+        </div>
 
-    <!-- Special Event Banner -->
-    <a href="https://www.istat.org/Events/Asia/Event-Information" target="_blank" title="Proud Sponsor of the 2026 ISTAT Conference, Bangkok - May 2026" style="margin:0 auto;">
-        <div class="istat-banner">
-            <div class="container">
+        <!-- Special Event Banner -->
+        <a href="https://www.istat.org/Events/Asia/Event-Information" target="_blank" title="Proud Sponsor of the 2026 ISTAT Conference, Bangkok - May 2026" style="margin:0 auto;">
+            <div class="istat-banner sponsor-banner">
+                <div class="container">
+                </div>
             </div>
-         </div>
-    </a>
-     <!-- END Special Event banner -->
+        </a>
+        <!-- END Special Event banner -->
+    </div>
+    <!-- /Sponsor Band -->
 
 
     <!-- Two Boxes Section -->
@@ -75,14 +79,14 @@
             <!-- Box1 -->
             <div class="col-md-6 col-sm-6">
                 <div class="panel-default">
-                     <img src="img/photo1.jpg" alt="Commercial aircraft in flight"/>
+                     <img src="img/team.jpg" alt="Business team working around a conference table"/>
                          <div class="panel-heading">
                              <h2>About us</h2>
                          </div>
                          <div class="panel-body">
                              <p> PGA as an aircraft remarketing firm has positioned itself as a leader  in the marketplace because our team has the strongest background in the China Aviation market.    Chinese airlines and leasing companies come to us as an important bridge to the western community. </p>
                                <div class="text-center">
-                                   <a href="about-us.aspx" class="resp-btn btn">Read more  <i class="fa fa-long-arrow-right"></i></a>
+                                   <a href="about-us.aspx" class="resp-btn btn">About PGA Aviation  <i class="fa fa-long-arrow-right"></i></a>
                                </div>
                          </div>
                 </div>
@@ -93,14 +97,14 @@
             <!-- Box2 -->
             <div class="col-md-6 col-sm-6">
                 <div class="panel-default">
-                    <img src="img/photo2.jpg" alt="Aircraft fleet on the runway"/>
+                    <img src="img/Services-paperwork.jpg" alt="Man working on business paperwork"/>
                         <div class="panel-heading">
                             <h2> Services</h2>
                         </div>
                         <div class="panel-body">
                             <p>Our main focus is aircraft asset-based cross-boarder transactions.  PGA has a strong network globally, and maintains excellent working relationships with airplane OEMs, airlines, leasing companies, aircraft investors, private equity firms, parts-out companies, and a first-tier global appraisal firm. </p>
                               <div class="text-center">
-                                  <a href="services.aspx" class="resp-btn btn">Read more  <i class="fa fa-long-arrow-right"></i></a>
+                                  <a href="services.aspx" class="resp-btn btn">Explore Services  <i class="fa fa-long-arrow-right"></i></a>
                               </div>
                         </div>
                 </div>
@@ -142,6 +146,7 @@
             </div>
             <div class="col-md-6 col-md-offset-3">
                 <p class="sub-text">PGA stands for <b>Pacific Generation Associates</b>. We value the strong professional bond among our founding team and the relationships we build with clients and stakeholders. Our approach is anchored in <b><i>Profitable Growth for All</i></b>, combining decades of experience in <b>aircraft remarketing, aviation advisory, and asset‑based cross‑border transactions, with deep China aviation market expertise</b> and a New York base of operations.</p>
+                <p class="sub-text"><a href="team.aspx">Our Team</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="PressReleases.aspx" title="PGA Aviation Press Releases">PGA Aviation Press Releases</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="Documents.aspx">Newsletter Archive</a></p>
             </div>
 		</div>
          <!-- /row -->
