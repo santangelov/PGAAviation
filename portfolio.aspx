@@ -1,7 +1,27 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="PGAMaster.Master" CodeBehind="portfolio.aspx.vb" Inherits="PGAAviation.portfolio" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <title>pga aviation - recent transactions</title>
-    <meta name="description" content="">
+    <title>PGA Aviation | Recent Transactions</title>
+    <meta name="description" content="View PGA Aviation's recent aircraft and engine transactions, showcasing leadership in asset-based aviation deals." />
+    <meta name="keywords" content="recent transactions, aircraft deals, engine transactions, aviation portfolio, PGA Aviation" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.pgaaviation.com/portfolio.aspx" />
+    <meta property="og:site_name" content="PGA Aviation" />
+    <meta property="og:title" content="PGA Aviation | Recent Transactions" />
+    <meta property="og:description" content="View PGA Aviation's recent aircraft and engine transactions, showcasing leadership in asset-based aviation deals." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.pgaaviation.com/portfolio.aspx" />
+    <meta property="og:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <meta property="og:image:alt" content="PGA Aviation logo" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="PGA Aviation | Recent Transactions" />
+    <meta name="twitter:description" content="View PGA Aviation's recent aircraft and engine transactions, showcasing leadership in asset-based aviation deals." />
+    <meta name="twitter:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="128x128" href="/favicon128.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
+    <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
+    <meta name="application-name" content="PGA Aviation" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
@@ -27,7 +47,7 @@
 
 			<!-- START TRANSACTION -->
             <div class="col-md-6 img-portfolio"> 
-            <a href="#"><img class="img-hover" src="img/737NGa.jpg" alt="737NG"/></a>
+            <a href="#"><img class="img-hover" src="img/737NGa.jpg" alt="Boeing 737NG aircraft"/></a>
               
                 <div class="portfolio-header-two-columns">
               Mid-life 737NG Acquisition</div>
@@ -37,7 +57,7 @@
 
 			<!-- START TRANSACTION -->
             <div class="col-md-6 img-portfolio"> 
-            <a href="#"><img class="img-hover" src="img/CFM56-7B.jpg" alt="CFM56-7 Engine. By CFM_56Lauda.jpg: Trainler derivative work: Altair78 (This file was derived from  CFM 56Lauda.jpg:) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons"/></a>
+            <a href="#"><img class="img-hover" src="img/CFM56-7B.jpg" alt="CFM56-7B aircraft engine"/></a>
               
                 <div class="portfolio-header-two-columns">
               CFM56-7B engines</div>
@@ -46,7 +66,7 @@
 			<!-- END TRANSACTION -->
 
  			<!-- START TRANSACTION -->
-           <div class="col-md-6 img-portfolio"> <a href="#"><img class="img-hover" src="img/MD-11.jpg" alt="MD-11"/></a>
+           <div class="col-md-6 img-portfolio"> <a href="#"><img class="img-hover" src="img/MD-11.jpg" alt="McDonnell Douglas MD-11 aircraft"/></a>
               
                 <div class="portfolio-header-two-columns">
               MD-11F fleet phase-out</div>
@@ -57,7 +77,7 @@
  			<!-- START TRANSACTION -->
            <div class="col-md-6 img-portfolio">
                 <a href="img/777.jpg">
-                   <img class="img-hover" src="img/777.jpg" alt="777"/>
+                   <img class="img-hover" src="img/777.jpg" alt="Boeing 777 aircraft"/>
                 </a>
                 <div class="portfolio-header-two-columns">
                   Historic 777-300ER
@@ -69,7 +89,7 @@
 			<!-- START TRANSACTION -->
             <div class="col-md-6 img-portfolio">
                 <a href="img/Beijing.jpg">
-                   <img src="img/Beijing.jpg" alt="photo" border="0" class="img-hover"/>
+                   <img src="img/Beijing.jpg" alt="Beijing skyline" border="0" class="img-hover"/>
                 </a>
                 <div class="portfolio-header-two-columns">
                     China Sales
@@ -81,7 +101,7 @@
  			<!-- START TRANSACTION -->
            <div class="col-md-6 img-portfolio">
                 <a href="img/portfolio4.jpg">
-                   <img class="img-hover" src="img/portfolio4.jpg" alt="Procurement"/>
+                   <img class="img-hover" src="img/portfolio4.jpg" alt="Aircraft procurement support"/>
                 </a>
                 <div class="portfolio-header-two-columns">
                     Procurement</div>
@@ -92,7 +112,7 @@
  			<!-- START TRANSACTION -->
            <div class="col-md-6 img-portfolio">
                 <a href="img/portfolio5.jpg">
-                   <img class="img-hover" src="img/portfolio5.jpg" alt="photo"/>
+                   <img class="img-hover" src="img/portfolio5.jpg" alt="Aircraft transaction consulting"/>
                 </a>
                 <div class="portfolio-header-two-columns">
                     Parts
@@ -104,7 +124,7 @@
 			<!-- START TRANSACTION -->
             <div class="col-md-6 img-portfolio">
                 <a href="img/Boeing 737 in flight wide.jpg">
-                   <img class="img-hover" src="img/Boeing 737 in flight wide.jpg" alt="photo"/>
+                   <img class="img-hover" src="img/Boeing 737 in flight wide.jpg" alt="Boeing 737 in flight"/>
                 </a>
                 <div class="portfolio-header-two-columns">
                   Innovative 3-way used 737 Sale Transaction
@@ -116,7 +136,7 @@
  			<!-- START TRANSACTION -->
             <div class="col-md-6 img-portfolio">
                 <a href="img/CRJSeries.jpg">
-                   <img class="img-hover" src="img/CRJSeries.jpg" alt="photo"/>
+                   <img class="img-hover" src="img/CRJSeries.jpg" alt="Bombardier CRJ series aircraft"/>
                 </a>
                 <div class="portfolio-header-two-columns">
                   Regional Aircraft/Turboprop Sales

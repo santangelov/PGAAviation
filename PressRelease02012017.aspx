@@ -1,7 +1,63 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="PGAMaster.Master" CodeBehind="PressRelease02012017.aspx.vb" Inherits="PGAAviation.PressRelease02012017" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <title>pga aviation - Press Release - 01/11/2017</title>
-    <meta name="description" content="">
+    <title>PGA Aviation | Press Release - February 1, 2017</title>
+    <meta name="description" content="PGA Aviation shared insights on China new aircraft demand during a UBS Investment Bank conference call." />
+    <meta name="keywords" content="press release, China aviation outlook, UBS conference, aircraft demand, PGA Aviation" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.pgaaviation.com/PressRelease02012017.aspx" />
+    <meta property="og:site_name" content="PGA Aviation" />
+    <meta property="og:title" content="PGA Aviation | Press Release - February 1, 2017" />
+    <meta property="og:description" content="PGA Aviation shared insights on China new aircraft demand during a UBS Investment Bank conference call." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.pgaaviation.com/PressRelease02012017.aspx" />
+    <meta property="og:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <meta property="og:image:alt" content="PGA Aviation logo" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="PGA Aviation | Press Release - February 1, 2017" />
+    <meta name="twitter:description" content="PGA Aviation shared insights on China new aircraft demand during a UBS Investment Bank conference call." />
+    <meta name="twitter:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="128x128" href="/favicon128.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
+    <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
+    <meta name="application-name" content="PGA Aviation" />
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://www.pgaaviation.com/#organization",
+              "name": "PGA Aviation",
+              "url": "https://www.pgaaviation.com/",
+              "logo": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg",
+              "image": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg"
+            },
+            {
+              "@type": "NewsArticle",
+              "headline": "PGA Aviation shared insights on China new aircraft demand during a UBS Investment Bank conference call",
+              "description": "PGA Aviation shared insights on China new aircraft demand during a UBS Investment Bank conference call.",
+              "datePublished": "2017-02-01",
+              "dateModified": "2017-02-01",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.pgaaviation.com/PressRelease02012017.aspx"
+              },
+              "image": [
+                "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg"
+              ],
+              "author": {
+                "@type": "Organization",
+                "name": "PGA Aviation"
+              },
+              "publisher": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              }
+            }
+          ]
+        }
+    </script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
@@ -40,7 +96,7 @@
                     (206) 905-9828</p>
           </div>
             <div class="col-md-5 col-sm-6">
-                <img src="img/ChinaSign.jpg" alt="photo"/>
+                <img src="img/ChinaSign.jpg" alt="China aviation market signage"/>
             </div>
         </div>
         <!-- /row -->
@@ -54,7 +110,7 @@
                <!-- Button -->
                <div class="text-center">
                    <a href="PressReleases.aspx" class="btn red-btn">More Press Releases</a>&nbsp;
-                   <a href="contact.html" class="btn red-btn">Contact us <i class="fa fa-long-arrow-right"></i></a>
+                   <a href="contact.aspx" class="btn red-btn">Contact us <i class="fa fa-long-arrow-right"></i></a>
                </div>
                <div class="margin-bottom"></div>
         

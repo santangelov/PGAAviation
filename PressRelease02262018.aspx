@@ -1,7 +1,63 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="PGAMaster.Master" CodeBehind="PressRelease02262018.aspx.vb" Inherits="PGAAviation.PressRelease02262018" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <title>pga aviation - Press Release - 02/26/2018</title>
-    <meta name="description" content="">
+    <title>PGA Aviation | Press Release - February 26, 2018</title>
+    <meta name="description" content="PGA Aviation arranged a transaction for four mid-life B737-700 aircraft coming off lease." />
+    <meta name="keywords" content="press release, B737-700 transaction, aircraft disposition, lease return, PGA Aviation" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.pgaaviation.com/PressRelease02262018.aspx" />
+    <meta property="og:site_name" content="PGA Aviation" />
+    <meta property="og:title" content="PGA Aviation | Press Release - February 26, 2018" />
+    <meta property="og:description" content="PGA Aviation arranged a transaction for four mid-life B737-700 aircraft coming off lease." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.pgaaviation.com/PressRelease02262018.aspx" />
+    <meta property="og:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <meta property="og:image:alt" content="PGA Aviation logo" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="PGA Aviation | Press Release - February 26, 2018" />
+    <meta name="twitter:description" content="PGA Aviation arranged a transaction for four mid-life B737-700 aircraft coming off lease." />
+    <meta name="twitter:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="128x128" href="/favicon128.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
+    <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
+    <meta name="application-name" content="PGA Aviation" />
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://www.pgaaviation.com/#organization",
+              "name": "PGA Aviation",
+              "url": "https://www.pgaaviation.com/",
+              "logo": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg",
+              "image": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg"
+            },
+            {
+              "@type": "NewsArticle",
+              "headline": "PGA Aviation arranged a transaction for four mid-life B737-700 aircraft coming off lease",
+              "description": "PGA Aviation arranged a transaction for four mid-life B737-700 aircraft coming off lease.",
+              "datePublished": "2018-02-26",
+              "dateModified": "2018-02-26",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.pgaaviation.com/PressRelease02262018.aspx"
+              },
+              "image": [
+                "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg"
+              ],
+              "author": {
+                "@type": "Organization",
+                "name": "PGA Aviation"
+              },
+              "publisher": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              }
+            }
+          ]
+        }
+    </script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
@@ -41,7 +97,7 @@
                     (206) 905-9828</p>
           </div>
             <div class="col-md-5 col-sm-6">
-                <img src="img/Boeing 737 in flight.jpg" alt="Boeing 737"/>
+                <img src="img/Boeing 737 in flight.jpg" alt="Boeing 737 in flight"/>
             </div>
         </div>
         <!-- /row -->
@@ -55,7 +111,7 @@
                <!-- Button -->
                <div class="text-center">
                    <a href="PressReleases.aspx" class="btn red-btn">More Press Releases</a>&nbsp;
-                   <a href="contact.html" class="btn red-btn">Contact us <i class="fa fa-long-arrow-right"></i></a>
+                   <a href="contact.aspx" class="btn red-btn">Contact us <i class="fa fa-long-arrow-right"></i></a>
                </div>
                <div class="margin-bottom"></div>
         

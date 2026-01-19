@@ -1,7 +1,27 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="PGAMaster.Master" CodeBehind="about-us.aspx.vb" Inherits="PGAAviation.about_us" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <title>pga aviation - About us</title>
-    <meta name="description" content="">
+    <title>PGA Aviation | About Us</title>
+    <meta name="description" content="Learn about PGA Aviation LLC, a New York-based aircraft remarketing firm with global partnerships and deep China aviation market expertise." />
+    <meta name="keywords" content="PGA Aviation, about PGA, aircraft remarketing firm, aviation consulting, China aviation, New York aviation" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.pgaaviation.com/about-us.aspx" />
+    <meta property="og:site_name" content="PGA Aviation" />
+    <meta property="og:title" content="PGA Aviation | About Us" />
+    <meta property="og:description" content="Learn about PGA Aviation LLC, a New York-based aircraft remarketing firm with global partnerships and deep China aviation market expertise." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.pgaaviation.com/about-us.aspx" />
+    <meta property="og:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <meta property="og:image:alt" content="PGA Aviation logo" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="PGA Aviation | About Us" />
+    <meta name="twitter:description" content="Learn about PGA Aviation LLC, a New York-based aircraft remarketing firm with global partnerships and deep China aviation market expertise." />
+    <meta name="twitter:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="128x128" href="/favicon128.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
+    <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
+    <meta name="application-name" content="PGA Aviation" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
@@ -30,10 +50,19 @@
                   <p>Our core <a href="team.aspx"> team members</a> have accumulated many years of experience with the biggest airplane OEMs, leasing companies, airlines, and Wall Street law firms.  Collectively, we possess strong backgrounds in the areas of Sales, Marketing, Customer Service, Engineering, Maintenance, Legal, Contracts, and Finance. </p>
                   <p class="inner-text">Our main focus is aircraft asset-based cross-boarder transactions.  </p>
                   <p>PGA has a strong network globally and maintains excellent working relationships with airplane OEMs, airlines, leasing companies, aircraft investors, private equity firms, parts-out companies, and a first-tier global appraisal firm. We currently assist many of China's major airlines in phasing out their aged fleets.  We also work closely with  major Chinese bank-owned leasing companies in the areas of appraisal, technical service, consulting, and asset management, through an exclusive arrangement with a first-tier global appraisal firm.  </p>
+                  <div class="about-proof">
+                      <h4>Proof &amp; Credibility</h4>
+                      <ul>
+                          <li>Advisory and transaction experience across mid-life and end-of-life aircraft portfolios.</li>
+                          <li>Established relationships with airlines, lessors, investors, and global appraisal partners.</li>
+                          <li>Decades of combined OEM, leasing, airline, and aviation legal experience.</li>
+                      </ul>
+                      <p><a href="PressReleases.aspx">View press releases</a> for recent transaction highlights.</p>
+                  </div>
 <p>PGA holds strong working relationships with  major US-based equity investment firms and leasing companies that specialize in mid to mature life aircraft asset investments.    Depending on the nature of each transaction, we are able to actively originate and execute specific multi-party airplane transactions, bringing value to stakeholders.          </p>
           </div>
             <div class="col-md-5 col-sm-6">
-                <img src="img/photo3.jpg" alt="photo"/>
+                <img src="img/photo3.jpg" alt="PGA Aviation team at work"/>
             </div>
         </div>
         <!-- /row -->
@@ -44,7 +73,7 @@
             <!-- How we work -->
             <div class="row about-us-top1">
                 <div class="col-md-5 col-sm-6">
-                    <img src="img/photo4.jpg" alt="photo" class="resp-photo"/>
+                    <img src="img/photo4.jpg" alt="Aircraft on the tarmac" class="resp-photo"/>
                 </div>
                 <div class="col-md-7 col-sm-6">
                     <h4>Strategy</h4>
@@ -81,7 +110,7 @@
         
                <!-- Button -->
                <div class="text-center">
-                   <a href="contact.html" class="btn red-btn">Contact us <i class="fa fa-long-arrow-right"></i></a>
+                   <a href="contact.aspx" class="btn red-btn">Contact us <i class="fa fa-long-arrow-right"></i></a>
                </div>
                <div class="margin-bottom"></div>
         

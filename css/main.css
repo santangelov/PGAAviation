@@ -1016,6 +1016,33 @@ a.btn-right:hover {
 	line-height: 1.7;
 }
 
+.faq-intro {
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+.faq-intro h3 {
+	font-size: 26px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	color: #393b3d;
+	letter-spacing: 0.05em;
+	margin-bottom: 10px;
+}
+
+.faq-content .panel {
+	border-radius: 0;
+	box-shadow: none;
+}
+
+.faq-content .panel-heading {
+	border-radius: 0;
+}
+
+.faq-cta {
+	margin-top: 30px;
+}
+
 
 /* ----------------------------------------------------
 	 SERVICES STYLES
@@ -1955,6 +1982,54 @@ ISTAT BANNER ON HOME PAGE
 	color: white;
 	letter-spacing: 0;
 	text-align: center;
+}
+
+/*------------------------------------------------------
+SPONSOR BAND (HOME PAGE)
+*/
+
+.sponsor-band {
+    background: #f6f7f8;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    padding: 26px 0 36px;
+    margin: 0 0 30px;
+}
+
+.sponsor-title {
+    margin: 0 0 18px;
+    text-align: center;
+    font-size: 34px;
+    letter-spacing: 0.08em;
+    color: #393b3d;
+}
+
+.sponsor-title:after {
+    content: "";
+    display: block;
+    width: 64px;
+    height: 2px;
+    background: #ff3333;
+    margin: 12px auto 0;
+}
+
+.sponsor-band a {
+    display: block;
+}
+
+.sponsor-banner {
+    max-width: 1140px;
+    margin: 0 auto;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 10px 28px rgba(0,0,0,0.12);
+    background-color: transparent;
+}
+
+@media(max-width:767px) {
+    .sponsor-band { padding: 20px 0 26px; }
+    .sponsor-title { font-size: 28px; }
+    .sponsor-banner { border-radius: 6px; }
 }
 
 /* ----------------------------------------------------

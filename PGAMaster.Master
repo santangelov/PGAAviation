@@ -4,30 +4,16 @@
 <html lang="en">
 
 <head runat="server">
-
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-
     <link rel="shortcut icon" type="image/png" href="/favicon.png" />
 
-    <!-- Bootstrap Core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet" />
-
-    <!-- Custom CSS -->
-    <link href="/css/main.css?ver=2.0" rel="stylesheet" />
-    
-    <!-- Responsive CSS -->
+    <link href="/css/main.css?ver=4.0" rel="stylesheet" />
     <link href="/css/responsive.css" rel="stylesheet" />
-
-    <!-- Custom Fonts -->
     <link href="/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css' />
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css' />
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js" /></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js" /></script>
-    <![endif]-->
-
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
+    
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
@@ -44,7 +30,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/"><img style="width:1.8em" src="/img/PGA Aviation Logo 2.jpg" border="0" alt="PGA Aviation" /> pga aviation</a>
+                <a class="navbar-brand" href="/"><img style="width:1.8em" src="/img/PGA Aviation Logo 2.jpg" border="0" alt="PGA Aviation logo" /> pga aviation</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -73,6 +59,9 @@
                      <li>
                         <a href="services.aspx">Services</a>
                      </li>
+                     <li>
+                        <a href="faq-transactional.aspx">FAQ</a>
+                     </li>
                       <li>
                         <a href="/Documents.aspx">PGA Perceptions</a>
                      </li> 
@@ -80,8 +69,8 @@
                         <a href="/contact.aspx">Contact</a>
                      </li>
                      <li class="flags">
-                        <asp:HyperLink NavigateUrl="#" ID="lnkUS" runat="server"><img src="/img/us.jpg" alt="English"/></asp:HyperLink>
-                        <asp:HyperLink visible="false" NavigateUrl="/cn/" ID="lnkCN" runat="server"><img src="/img/cn.jpg" alt="Chinese"/></asp:HyperLink>
+                        <asp:HyperLink NavigateUrl="#" ID="lnkUS" runat="server"><img src="/img/us.jpg" alt="English language"/></asp:HyperLink>
+                        <asp:HyperLink visible="false" NavigateUrl="/cn/" ID="lnkCN" runat="server"><img src="/img/cn.jpg" alt="Chinese language"/></asp:HyperLink>
                      </li>
 
                   </ul>
@@ -130,7 +119,9 @@
 						            <div class="footerLinkList">
                                         <p><a href="team.aspx">Team</a></p>
                                         <p><a href="services.aspx">Services</a></p>
+                                        <p><a href="faq-transactional.aspx">FAQ</a></p>
                                         <p><a href="portfolio.aspx">Recent Transactions</a></p>
+                                        <p><a href="PressReleases.aspx">Press Releases</a></p>
 						            </div><!-- /footerLinkList -->
 					      </div>
                     
@@ -150,7 +141,7 @@
 						 </div><!-- /footerMenu -->
 					  </div>
 					  <div class="col-md-6 col-sm-6 col-xs-6">
-						  <div class="copy">Copyright © 2015. Web Development: <span><a href="http://www.pixelmarsala.com/" target="_blank">Pixel Marsala, LLC</a></span>
+						  <div class="copy">Copyright ©2026. Web Development: <span><a href="http://pixelmarsala.com" target="_blank">Pixel Marsala, LLC</a></span>
                           </div>
 					  </div>
 				 </div><!-- /row -->

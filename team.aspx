@@ -1,7 +1,27 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="PGAMaster.Master" CodeBehind="team.aspx.vb" Inherits="PGAAviation.team" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <title>pga aviation - our team</title>
-    <meta name="description" content="Our core team members have accumulated many years of experience with the biggest airplane OEMs, leasing companies, airlines, and Wall Street law firms.  Collectively, we possess strong backgrounds in the areas of Sales, Marketing, Customer Service, Engineering, Maintenance, Legal, Contracts, and Finance.">
+    <title>PGA Aviation | Our Team</title>
+    <meta name="description" content="Meet PGA Aviation's leadership team with decades of experience across OEMs, leasing, airlines, and legal services." />
+    <meta name="keywords" content="PGA Aviation team, aviation leadership, aircraft remarketing experts, OEM experience, leasing and legal" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.pgaaviation.com/team.aspx" />
+    <meta property="og:site_name" content="PGA Aviation" />
+    <meta property="og:title" content="PGA Aviation | Our Team" />
+    <meta property="og:description" content="Meet PGA Aviation's leadership team with decades of experience across OEMs, leasing, airlines, and legal services." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.pgaaviation.com/team.aspx" />
+    <meta property="og:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <meta property="og:image:alt" content="PGA Aviation logo" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="PGA Aviation | Our Team" />
+    <meta name="twitter:description" content="Meet PGA Aviation's leadership team with decades of experience across OEMs, leasing, airlines, and legal services." />
+    <meta name="twitter:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="128x128" href="/favicon128.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
+    <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
+    <meta name="application-name" content="PGA Aviation" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 

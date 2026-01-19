@@ -1,7 +1,63 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="PGAMaster.Master" CodeBehind="PressRelease10052018.aspx.vb" Inherits="PGAAviation.PressRelease10052018" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <title>pga aviation - Press Release - 02/26/2018</title>
-    <meta name="description" content="">
+    <title>PGA Aviation | Press Release - October 3, 2018</title>
+    <meta name="description" content="PGA Aviation advised a multi-party sale and lease novation of two Airbus A319 aircraft in China." />
+    <meta name="keywords" content="press release, Airbus A319 sale, lease novation, China aviation, PGA Aviation" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.pgaaviation.com/PressRelease10052018.aspx" />
+    <meta property="og:site_name" content="PGA Aviation" />
+    <meta property="og:title" content="PGA Aviation | Press Release - October 3, 2018" />
+    <meta property="og:description" content="PGA Aviation advised a multi-party sale and lease novation of two Airbus A319 aircraft in China." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.pgaaviation.com/PressRelease10052018.aspx" />
+    <meta property="og:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <meta property="og:image:alt" content="PGA Aviation logo" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="PGA Aviation | Press Release - October 3, 2018" />
+    <meta name="twitter:description" content="PGA Aviation advised a multi-party sale and lease novation of two Airbus A319 aircraft in China." />
+    <meta name="twitter:image" content="https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="128x128" href="/favicon128.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
+    <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
+    <meta name="application-name" content="PGA Aviation" />
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://www.pgaaviation.com/#organization",
+              "name": "PGA Aviation",
+              "url": "https://www.pgaaviation.com/",
+              "logo": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg",
+              "image": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg"
+            },
+            {
+              "@type": "NewsArticle",
+              "headline": "PGA Aviation advised a multi-party sale and lease novation of two Airbus A319 aircraft in China",
+              "description": "PGA Aviation advised a multi-party sale and lease novation of two Airbus A319 aircraft in China.",
+              "datePublished": "2018-10-03",
+              "dateModified": "2018-10-03",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.pgaaviation.com/PressRelease10052018.aspx"
+              },
+              "image": [
+                "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg"
+              ],
+              "author": {
+                "@type": "Organization",
+                "name": "PGA Aviation"
+              },
+              "publisher": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              }
+            }
+          ]
+        }
+    </script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
@@ -58,7 +114,7 @@
                <!-- Button -->
                <div class="text-center">
                    <a href="PressReleases.aspx" class="btn red-btn">More Press Releases</a>&nbsp;
-                   <a href="contact.html" class="btn red-btn">Contact us <i class="fa fa-long-arrow-right"></i></a>
+                   <a href="contact.aspx" class="btn red-btn">Contact us <i class="fa fa-long-arrow-right"></i></a>
                </div>
                <div class="margin-bottom"></div>
         
