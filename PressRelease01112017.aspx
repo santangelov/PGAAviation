@@ -87,7 +87,7 @@
   &nbsp;<br />
                     The deal is one of the biggest used aircraft sales and purchase transactions to  date under the new regulatory requirements recently imposed by the PRC  Government for the phasing out of aircraft and aircraft engine assets by  Chinese state-owned airlines.&nbsp;<br />
   &nbsp;<br />
-                    For more information about the pertinent PRC Government rules, please see PGA's  2016 Q1 report at <a href="http://www.pgaaviation.com">www.pgaaviation.com</a>&nbsp;&nbsp;The  deal was structured to be in full compliance with all applicable PRC Government regulations, including the most recent ones.<br />
+                    For more information about the pertinent PRC Government rules, please see PGA's  2016 Q1 report at <a href="https://www.pgaaviation.com">www.pgaaviation.com</a>&nbsp;&nbsp;The  deal was structured to be in full compliance with all applicable PRC Government regulations, including the most recent ones.<br />
   &nbsp;<br />
                     PGA was formed in 2010 in New York.&nbsp; Since it's formation, it has done  business with,&nbsp;and/or served as advisor to, three of the four major  mainland China airline groups and several Chinese bank-owned leasing companies,  as well as with numerous western aviation service providers seeking to do  business with the lucrative and growing Chinese aviation community.&nbsp;  Completed transactions have covered new and/or used in-production aircraft,  out-of production aircraft,&nbsp;spare engines, and various categories of  aviation-related services.&nbsp;<br />
   &nbsp;<br />
