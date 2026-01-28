@@ -117,7 +117,7 @@
                 <div class="portfolio-header-two-columns">
                     Parts
                 </div>
-                <p class="portfolio-two-columns-text">PGA served as lead originator for a cross-border parts-out JV project</p>
+                <p class="portfolio-two-columns-text">PGA served as lead originator for a cross-border part-out JV project</p>
             </div>
 			<!-- END TRANSACTION -->
             

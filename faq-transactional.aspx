@@ -43,7 +43,7 @@
                   "name": "How does PGA ensure successful project execution and closure in the Greater China market?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "PGA is focused on the Greater China market and works closely with airlines and leasing companies in the region. In China-linked transactions, timing and process can be driven by government-directed procedures, including prescribed steps for disposing of state-owned assets through government-authorized trading and bidding platforms. A practical approach is to map the closing path early—deliverables, responsibilities, and approval sequencing—so the schedule reflects how the system operates. That helps reduce late-stage surprises and protects value when deadlines are tight. For additional context, see PGA Perceptions on our Documents page."
+                    "text": "PGA is focused on the Greater China market and works closely with airlines and leasing companies in the region. In China-linked transactions, timing and process can be driven by government-directed procedures, including prescribed steps for disposing of state-owned assets through government-authorized trading and bidding platforms. A practical approach is to map the closing path early - deliverables, responsibilities, and approval sequencing - so the schedule reflects how the system operates. That helps reduce late-stage surprises and protects value when deadlines are tight. For additional context, see PGA Perceptions on our Documents page."
                   }
                 },
                 {
@@ -51,7 +51,7 @@
                   "name": "What is the scope of PGA's aircraft transaction experience?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "PGA is an aircraft re-marketing firm focused on aircraft asset-based cross-border transactions. We work with airlines, leasing companies, aircraft investors, private equity firms, parts-out companies, and other market participants. The scope of work varies by mandate, but it typically depends on clear records, realistic timing, and counterparties that can actually close. Our site includes examples of procurement-related projects and used aircraft transactions, including sale and lease novations. If you want a quick picture of the types of mandates we support, review our Services and Recent Transactions pages."
+                    "text": "PGA is an aircraft re-marketing firm focused on aircraft asset-based cross-border transactions. We work with airlines, leasing companies, aircraft investors, private equity firms, part-out companies, and other market participants. The scope of work varies by mandate, but it typically depends on clear records, realistic timing, and counterparties that can actually close. Our site includes examples of procurement-related projects and used aircraft transactions, including sale and lease novations. If you want a quick picture of the types of mandates we support, review our Services and Recent Transactions pages."
                   }
                 },
                 {
@@ -107,7 +107,7 @@
                   "name": "What types of counterparties does PGA work with?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "PGA works with OEMs, airlines, leasing companies, aircraft investors, private equity firms, parts-out companies, and related stakeholders. That mix matters because different counterparties price risk differently—operators focus on fleet fit, lessors focus on lease and residual, and teardown buyers focus on material value. Understanding who the natural buyer is helps shorten cycle time and improves closing probability. It also keeps marketing efforts focused on counterparties that can actually execute. For examples of the types of counterparties and deals, see our Recent Transactions page."
+                    "text": "PGA works with OEMs, airlines, leasing companies, aircraft investors, private equity firms, part-out companies, and related stakeholders. That mix matters because different counterparties price risk differently, operators focus on fleet fit, lessors focus on lease and residual, and teardown buyers focus on material value. Understanding who the natural buyer is helps shorten cycle time and improves closing probability. It also keeps marketing efforts focused on counterparties that can actually execute. For examples of the types of counterparties and deals, see our Recent Transactions page."
                   }
                 },
                 {
@@ -123,7 +123,7 @@
                   "name": "What makes PGA Aviation different from typical brokers?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "PGA's focus is aircraft asset-based cross-border transactions, with a China-related remarketing strategy described on our About Us page. The team's background spans OEM, leasing, airline, and legal experience, and PGA maintains working relationships with OEMs, airlines, investors, parts-out companies, and a first-tier global appraisal firm. Practically, that means the work is aimed at executable outcomes and disciplined process, not just introductions. We spend time up front on records, timing, and counterparty fit because those are the usual failure points in this segment. If you want the full scope, see Services and Recent Transactions."
+                    "text": "PGA's focus is aircraft asset-based cross-border transactions, with a China-related remarketing strategy described on our About Us page. The team's background spans OEM, leasing, airline, and legal experience, and PGA maintains working relationships with OEMs, airlines, investors, part-out companies, and a first-tier global appraisal firm. Practically, that means the work is aimed at executable outcomes and disciplined process, not just introductions. We spend time up front on records, timing, and counterparty fit because those are the usual failure points in this segment. If you want the full scope, see Services and Recent Transactions."
                   }
                 },
                 {
@@ -179,7 +179,7 @@
                             </h4>
                         </div>
                         <div id="faqOneContent" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="faqOne">
-                            <div class="panel-body">PGA is focused on the Greater China market and works closely with airlines and leasing companies in the region. In China-linked transactions, timing and process can be driven by government-directed procedures, including prescribed steps for disposing of state-owned assets through government-authorized trading and bidding platforms. A practical approach is to map the closing path early—deliverables, responsibilities, and approval sequencing—so the schedule reflects how the system operates. That helps reduce late-stage surprises and protects value when deadlines are tight. For additional context, see PGA Perceptions on our Documents page.</div>
+                            <div class="panel-body">PGA is focused on the Greater China market and works closely with airlines and leasing companies in the region. In China-linked transactions, timing and process can be driven by government-directed procedures, including prescribed steps for disposing of state-owned assets through government-authorized trading and bidding platforms. A practical approach is to map the closing path early - deliverables, responsibilities, and approval sequencing - so the schedule reflects how the system operates. That helps reduce late-stage surprises and protects value when deadlines are tight. For additional context, see PGA Perceptions on our Documents page.</div>
                         </div>
                     </div>
 
@@ -192,7 +192,7 @@
                             </h4>
                         </div>
                         <div id="faqTwoContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqTwo">
-                            <div class="panel-body">PGA is an aircraft re-marketing firm focused on aircraft asset-based cross-border transactions. We work with airlines, leasing companies, aircraft investors, private equity firms, parts-out companies, and other market participants. The scope of work varies by mandate, but it typically depends on clear records, realistic timing, and counterparties that can actually close. Our site includes examples of procurement-related projects and used aircraft transactions, including sale and lease novations. If you want a quick picture of the types of mandates we support, review our Services and Recent Transactions pages.</div>
+                            <div class="panel-body">PGA is an aircraft re-marketing firm focused on aircraft asset-based cross-border transactions. We work with airlines, leasing companies, aircraft investors, private equity firms, part-out companies, and other market participants. The scope of work varies by mandate, but it typically depends on clear records, realistic timing, and counterparties that can actually close. Our site includes examples of procurement-related projects and used aircraft transactions, including novations for both sales and leases. If you want a quick picture of the types of mandates we support, review our Services and Recent Transactions pages.</div>
                         </div>
                     </div>
 
@@ -283,7 +283,7 @@
                             </h4>
                         </div>
                         <div id="faqNineContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqNine">
-                            <div class="panel-body">PGA works with OEMs, airlines, leasing companies, aircraft investors, private equity firms, parts-out companies, and related stakeholders. That mix matters because different counterparties price risk differently—operators focus on fleet fit, lessors focus on lease and residual, and teardown buyers focus on material value. Understanding who the natural buyer is helps shorten cycle time and improves closing probability. It also keeps marketing efforts focused on counterparties that can actually execute. For examples of the types of counterparties and deals, see our Recent Transactions page.</div>
+                            <div class="panel-body">PGA works with OEMs, airlines, leasing companies, aircraft investors, private equity firms, part-out companies, and related stakeholders. That mix matters because different counterparties price risk differently, operators focus on fleet fit, lessors focus on lease and residual, and teardown buyers focus on material value. Understanding who the natural buyer is helps shorten cycle time and improves closing probability. It also keeps marketing efforts focused on counterparties that can actually execute. For examples of the types of counterparties and deals, see our Recent Transactions page.</div>
                         </div>
                     </div>
 
@@ -309,7 +309,7 @@
                             </h4>
                         </div>
                         <div id="faqElevenContent" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqEleven">
-                            <div class="panel-body">PGA's focus is aircraft asset-based cross-border transactions, with a China-related remarketing strategy described on our About Us page. The team's background spans OEM, leasing, airline, and legal experience, and PGA maintains working relationships with OEMs, airlines, investors, parts-out companies, and a first-tier global appraisal firm. Practically, that means the work is aimed at executable outcomes and disciplined process, not just introductions. We spend time up front on records, timing, and counterparty fit because those are the usual failure points in this segment. If you want the full scope, see Services and Recent Transactions.</div>
+                            <div class="panel-body">PGA's focus is aircraft asset-based cross-border transactions, with a China-related remarketing strategy described on our About Us page. The team's background spans OEM, leasing, airline, and legal experience, and PGA maintains working relationships with OEMs, airlines, investors, part-out companies, and a first-tier global appraisal firm. Practically, that means the work is aimed at executable outcomes and disciplined process, not just introductions. We spend time up front on records, timing, and counterparty fit because those are the usual failure points in this segment. If you want the full scope, see Services and Recent Transactions.</div>
                         </div>
                     </div>
 

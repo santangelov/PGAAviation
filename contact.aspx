@@ -62,7 +62,6 @@
                 <p> <i class="fa fa-envelope-o"> </i> 
                     <a href="mailto:info@pgaAviation.com">info@pgaAviation.com</a>
                 </p>
-                <p>Skype: <a href="skype:pgaaviation?call">pgaaviation</a> | <a href="skype:pgaaviation?call">call</a> | <a href="skype:pgaaviation?chat">chat</a></p>
             </div>
 
             <!-- Contact Form -->

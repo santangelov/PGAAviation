@@ -79,7 +79,7 @@
             <!-- Box1 -->
             <div class="col-md-6 col-sm-6">
                 <div class="panel-default">
-                     <img src="img/team.jpg" alt="Business team working around a conference table"/>
+                     <img src="img/team.jpg?ver=2.0" alt="Business leader at office desk"/>
                          <div class="panel-heading">
                              <h2>About us</h2>
                          </div>
@@ -97,12 +97,12 @@
             <!-- Box2 -->
             <div class="col-md-6 col-sm-6">
                 <div class="panel-default">
-                    <img src="img/Services-paperwork.jpg" alt="Man working on business paperwork"/>
+                    <img src="img/Services-paperwork.jpg?ver=2.0" alt="Man working on business paperwork"/>
                         <div class="panel-heading">
                             <h2> Services</h2>
                         </div>
                         <div class="panel-body">
-                            <p>Our main focus is aircraft asset-based cross-boarder transactions.  PGA has a strong network globally, and maintains excellent working relationships with airplane OEMs, airlines, leasing companies, aircraft investors, private equity firms, parts-out companies, and a first-tier global appraisal firm. </p>
+                            <p>Our main focus is aircraft asset-based cross-boarder transactions.  PGA has a strong network globally, and maintains excellent working relationships with airplane OEMs, airlines, leasing companies, aircraft investors, private equity firms, part-out companies, and a first-tier global appraisal firm. </p>
                               <div class="text-center">
                                   <a href="services.aspx" class="resp-btn btn">Explore Services  <i class="fa fa-long-arrow-right"></i></a>
                               </div>

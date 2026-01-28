@@ -291,7 +291,7 @@
                         <li><strong>Discovery:</strong> Align on asset profile, objectives, constraints, and timeline.</li>
                         <li><strong>Market strategy:</strong> Define valuation, counterparty targeting, and transaction structure.</li>
                         <li><strong>Execution:</strong> Coordinate diligence, documentation, regulatory steps, and closing.</li>
-                        <li><strong>Post-close support:</strong> Guide transitions, technical follow-through, and reporting.</li>
+                        <li><strong>Post-Closing support:</strong> Deregistration/Export Assistance, Conditions Subsequent, and Bridging.</li>
                     </ol>
                 </div>
             </div>
