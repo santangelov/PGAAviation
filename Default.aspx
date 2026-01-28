@@ -23,6 +23,67 @@
     <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
     <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
     <meta name="application-name" content="PGA Aviation" />
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://www.pgaaviation.com/#organization",
+              "name": "PGA Aviation",
+              "url": "https://www.pgaaviation.com/",
+              "logo": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg",
+              "image": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "244 5th Ave. Suite 2708",
+                "addressLocality": "New York",
+                "addressRegion": "NY",
+                "postalCode": "10001",
+                "addressCountry": "US"
+              },
+              "contactPoint": [
+                {
+                  "@type": "ContactPoint",
+                  "telephone": "+1-206-905-9828",
+                  "contactType": "customer service",
+                  "email": "info@pgaAviation.com",
+                  "areaServed": [
+                    "US",
+                    "CN"
+                  ],
+                  "availableLanguage": [
+                    "English",
+                    "Chinese"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.pgaaviation.com/#website",
+              "url": "https://www.pgaaviation.com/",
+              "name": "PGA Aviation",
+              "publisher": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.pgaaviation.com/#webpage",
+              "url": "https://www.pgaaviation.com/",
+              "name": "PGA Aviation | Aircraft Remarketing & Advisory",
+              "isPartOf": {
+                "@id": "https://www.pgaaviation.com/#website"
+              },
+              "about": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              },
+              "description": "PGA Aviation, LLC is an aircraft remarketing firm specializing in asset-based cross-border transactions with deep China aviation market expertise."
+            }
+          ]
+        }
+    </script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
@@ -33,7 +94,7 @@
                    <div class="row">
                        <div class="col-md-12">
                            <h1 class="main-text">Aircraft <span class="part">remarketing</span></h1>
-                              <p class="intro-text">A niche player in aircraft asset-based cross-boarder transactions</p>
+                              <p class="intro-text">Advisory-led aircraft remarketing and cross-border execution with deep China market experience.</p>
                               <a href="services.aspx" class="btn ghost-btn">our services</a>
                        </div>
                    </div>    
