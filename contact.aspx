@@ -22,6 +22,67 @@
     <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
     <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
     <meta name="application-name" content="PGA Aviation" />
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://www.pgaaviation.com/#organization",
+              "name": "PGA Aviation",
+              "url": "https://www.pgaaviation.com/",
+              "logo": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg",
+              "image": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg",
+              "contactPoint": [
+                {
+                  "@type": "ContactPoint",
+                  "telephone": "+1-206-905-9828",
+                  "contactType": "customer service",
+                  "email": "info@pgaAviation.com",
+                  "areaServed": [
+                    "US",
+                    "CN"
+                  ],
+                  "availableLanguage": [
+                    "English",
+                    "Chinese"
+                  ]
+                }
+              ],
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "244 5th Avenue, Suite 2708",
+                "addressLocality": "New York",
+                "addressRegion": "NY",
+                "postalCode": "10001",
+                "addressCountry": "US"
+              }
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.pgaaviation.com/#website",
+              "url": "https://www.pgaaviation.com/",
+              "name": "PGA Aviation",
+              "publisher": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              }
+            },
+            {
+              "@type": "ContactPage",
+              "@id": "https://www.pgaaviation.com/contact.aspx#webpage",
+              "url": "https://www.pgaaviation.com/contact.aspx",
+              "name": "PGA Aviation | Contact",
+              "isPartOf": {
+                "@id": "https://www.pgaaviation.com/#website"
+              },
+              "about": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              },
+              "description": "Contact PGA Aviation in New York for aircraft remarketing, advisory, and aviation asset management support."
+            }
+          ]
+        }
+    </script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
@@ -43,13 +104,6 @@
     <div class="container">
             
         <div class="row margin-top">
-             <!-- Map Column -->
-            <div class="col-md-4 col-sm-12">
-                <!-- Embedded Google Map -->
-                <!-- Google Map (adress on map can be changed in app.js file) -->
-            <div id="map-canvas"></div>
-        <!-- End Google Map -->
-            </div>
 
             <!-- Contact Details Column -->
             <div class="col-md-3">

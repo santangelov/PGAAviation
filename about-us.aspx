@@ -22,6 +22,43 @@
     <link rel="apple-touch-icon" sizes="128x128" href="/favicon128.png" />
     <meta name="apple-mobile-web-app-title" content="PGA Aviation" />
     <meta name="application-name" content="PGA Aviation" />
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://www.pgaaviation.com/#organization",
+              "name": "PGA Aviation",
+              "url": "https://www.pgaaviation.com/",
+              "logo": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg",
+              "image": "https://www.pgaaviation.com/img/PGA%20Aviation%20Logo%202.jpg"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.pgaaviation.com/#website",
+              "url": "https://www.pgaaviation.com/",
+              "name": "PGA Aviation",
+              "publisher": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              }
+            },
+            {
+              "@type": "AboutPage",
+              "@id": "https://www.pgaaviation.com/about-us.aspx#webpage",
+              "url": "https://www.pgaaviation.com/about-us.aspx",
+              "name": "PGA Aviation | About Us",
+              "isPartOf": {
+                "@id": "https://www.pgaaviation.com/#website"
+              },
+              "about": {
+                "@id": "https://www.pgaaviation.com/#organization"
+              },
+              "description": "Learn about PGA Aviation LLC, a New York-based aircraft remarketing firm with global partnerships and deep China aviation market expertise."
+            }
+          ]
+        }
+    </script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
@@ -45,7 +82,7 @@
         <div class="row margin-top">
             <!-- About us -->
             <div class="col-md-7 col-sm-6">
-                <h3>Partnerships, no matter which country you are domiciled in, cross-border aircraft deals are common in the aviation industry</h3>
+                <h3>Cross-border aircraft transactions require trusted partners across jurisdictions.</h3>
                   <p>PGA Aviation LLC (&quot;PGA&quot;) is an aircraft re-marketing firm, incorporated in New York in 2010.  </p>
                   <p>Our core <a href="team.aspx"> team members</a> have accumulated many years of experience with the biggest airplane OEMs, leasing companies, airlines, and Wall Street law firms.  Collectively, we possess strong backgrounds in the areas of Sales, Marketing, Customer Service, Engineering, Maintenance, Legal, Contracts, and Finance. </p>
                   <p class="inner-text">Our main focus is aircraft asset-based cross-boarder transactions.  </p>
@@ -96,13 +133,13 @@
                     </div>
                     <div class="col-md-12"> 
                         <div class="partnerLogoWrapper">
-                   	        <a href="http://www.mba.aero" target="_blank"><img src="img/mba Logo.jpg" alt="Morten Beyer and Agnew" border="0" class="our-clients-photo"/></a>
+                   	        <a href="https://www.mba.aero" target="_blank" rel="noopener"><img src="img/mba Logo.jpg" alt="Morten Beyer and Agnew" border="0" class="our-clients-photo"/></a>
                         </div>
                         <div class="partnerLogoWrapper">
-                            <a href="https://aircraftcabinsystems.com" target="_blank"><img src="img/acslogo.jpg" alt="Aircraft Cabin Systems" width="380" height="181" border="0" /></a>
+                            <a href="https://aircraftcabinsystems.com" target="_blank" rel="noopener"><img src="img/acslogo.jpg" alt="Aircraft Cabin Systems" width="380" height="181" border="0" /></a>
                         </div>
                         <div class="partnerLogoWrapper">
-                            <a href="http://aviator.aero" target="_blank"><img src="img/aviator-logo.png" alt="Aviator" width="362" height="43" border="0" style="margin-top:30px;" /></a>
+                            <a href="https://aviator.aero" target="_blank" rel="noopener"><img src="img/aviator-logo.png" alt="Aviator" width="362" height="43" border="0" style="margin-top:30px;" /></a>
                         </div>
                     </div>
                 </div>
