@@ -104,20 +104,6 @@
     <div class="container">
             
         <div class="row margin-top">
-             <!-- Map Column -->
-            <div class="col-md-4 col-sm-12">
-                <!-- Embedded Google Map -->
-                <!-- Google Map (adress on map can be changed in app.js file) -->
-            <div id="map-canvas"></div>
-            <div class="map-fallback">
-                <p><strong>Map access:</strong> If the interactive map is unavailable, use these direct links:</p>
-                <ul>
-                    <li><a href="https://www.openstreetmap.org/?mlat=40.7446178&mlon=-73.9877004#map=15/40.7446178/-73.9877004" target="_blank" rel="noopener">OpenStreetMap</a></li>
-                    <li><a href="https://map.baidu.com/?query=244%205th%20Ave%20Suite%202708%20New%20York%20NY%2010001" target="_blank" rel="noopener">Baidu Maps</a></li>
-                </ul>
-            </div>
-        <!-- End Google Map -->
-            </div>
 
             <!-- Contact Details Column -->
             <div class="col-md-3">
